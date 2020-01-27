@@ -1,477 +1,374 @@
-,screen_name,date,text,retweet_count,favourites_count,ratio,len_plain_text,question_marks,esclamation_marks,emojis,hashtags,tags,urls,consecutive_chars,tf-idf
-0,Orietta's Recipes,2020-01-23 18:13:47,La mia cena! Mozzarella in carrozza 🍷🍷☺️. Voi cosa mangiate? https://t.co/Q8p9aVL9QY #ThursdayMotivation #FelizJueves #Food #23gennaio https://t.co/iapJYUHZ0u,19,95,0.014380865879503482,44,1,1,3,4,0,2,0,4.0945283
-1,Orietta's Recipes,2020-01-23 11:42:55,"Buon pranzo a tutti! 😋 Oggi spatzle con filetti di rana pescatrice, 😉 🍷 vi piacciono? Spero di sì ☺️https://t.co/kwXIjX0LC8 #ThursdayMotivation #FelizJueves #foodie #food #23gennaio #yummy https://t.co/JprM28Q7oH",14,79,0.011958825310323948,72,1,1,4,6,0,2,0,5.00595205
-2,Orietta's Recipes,2020-01-23 07:55:06,"Eccomi con la mia😍 NUOVA 😍 ricetta, per colazione o a merenda il  Plumcake al caffè ☕ ricoperto di 🍫 😘😘 è perfetto! Goloso!. Felice giornata 💕 https://t.co/btrfGkLWft #ThursdayMotivation #FelizJueves #23gennaio #Food https://t.co/Nj62XBVEob",25,98,0.014834998486224644,102,0,2,7,4,0,2,0,5.98720864
-3,Orietta's Recipes,2020-01-22 17:59:47,È quasi ora di cena! Io ho un po' di fame  ☺️☺️. Che ne dite di questo filetto di spigola al forno con olive taggiasche e pomodori secchi? 😋 😋 https://t.co/23yEiKfG5X #WednesdayMotivation #FelizMiercoles #22gennaio #Food https://t.co/CQamdGd3ie,24,106,0.01604601877081441,101,1,1,4,4,0,2,0,6.69722103
-4,Orietta's Recipes,2020-01-22 11:30:14,Arriva l'ora di pranzo e viene voglia di un piatto di pasta caldo e fumante ☺️☺️ oggi Pasta calamarata con crema di zucca e besciamella croccante ☺️. https://t.co/i5yDvtcTpO #WednesdayMotivation #FelizMiercoles #food #22gennaio https://t.co/WRtGil5Anh,26,108,0.01634877384196185,115,0,0,3,4,0,2,0,6.07405297
-5,Orietta's Recipes,2020-01-22 07:32:07,Chi vuole un muffin ripieno di crema al limone? 💕💕. Buongiorno ☺️.. 💌 https://t.co/9SvoHlYn3w #WednesdayMotivation #FelizMiercoles #food #22gennaio https://t.co/U4itnD9hmX,35,121,0.018316681804420226,48,1,0,4,4,0,2,0,4.29745612
-6,Orietta's Recipes,2020-01-21 18:10:41,Stasera cena leggera gustosa e perfetta anche per i miei amici vegetariani ☺️☺️. Hamburger vegetariani di patate dolci 😘https://t.co/fP1wOUXFmV #TuesdayMotivation #FelizMartes #foodie #food #21gennaio https://t.co/AEFHVqS8D6,13,64,0.009688162276718136,96,0,0,3,5,0,2,0,5.12559939
-7,Orietta's Recipes,2020-01-21 11:56:19,Oggi propongo  lo stufato di manzo speziato con  riso 🍷🍷. Buon pranzo 👩🏻‍🍳🍳👩🏻‍🍳 https://t.co/xgVL1ME2sw #TuesdayMotivation #FelizMartes #foodie #food #21gennaio https://t.co/f264KYLxbi,18,64,0.009688162276718136,53,0,0,9,5,0,2,0,4.46365874
-8,Orietta's Recipes,2020-01-21 07:19:28,Per una colazione golosa e piena di dolcezza oggi una fetta di torta al cioccolato bianco e limone 🍋 😋 ❤️. Una serena giornata a tutti voi 💕https://t.co/8ZeqbZH8kc #TuesdayMotivation #FelizMartes #foodie #food #21gennaio https://t.co/ErCndDHPlX,34,149,0.02255525280048441,107,0,0,4,5,0,2,0,5.96171597
-9,Orietta's Recipes,2020-01-20 18:32:47,"Buona sera amici  🍷☺️. A gran richiesta della mia famiglia, stasera per cena spezzatino di manzo all'indiana con patate alla curcuma 😋 https://t.co/5UVCapYp3B #MondayMotivation #FelizLunes #Food #20gennaio https://t.co/wpyy8x1Gcl",19,91,0.0137753557372086,105,0,0,3,4,0,2,0,6.000784
-10,Orietta's Recipes,2020-01-20 11:52:13,"Buon pranzo a tutti, oggi io cous cous di pesce 😋 🍳leggero, buono,adatto proprio al pranzo di lunedì! https://t.co/STRgpnnmxq #MondayMotivation #FelizLunes #Food #20gennaio https://t.co/pHG8QxIvD8",13,89,0.013472600666061155,77,0,1,2,4,0,2,0,5.13491904
-11,Orietta's Recipes,2020-01-20 07:49:20,Una fetta di torta di rose all'olio 🌹😍🌹e si riparte. Splendido inizio settimana a tutti e buon lavoro 😘 😘 😍https://t.co/awj2Eqa17H #MondayMotivation #FelizLunes #Food #foodie #20gennaio https://t.co/wycldWJjdo,27,126,0.019073569482288832,79,0,0,6,5,0,2,0,5.25400452
-12,Orietta's Recipes,2020-01-19 18:30:40,"Stasera focaccia ripiena! Birra 🍻 scura, pigiama, divano e film 📽 😁😁😁. Felice serata a tutti 🎥https://t.co/faenodqDpT #19gennaio #FelizDomingo #SundayMotivation https://t.co/3gpzk8ctIz",30,165,0.024977293369663943,68,0,1,6,3,0,2,0,4.55289076
-13,Orietta's Recipes,2020-01-19 14:45:18,"Tengo i giorni chiari, quelli scuri li rendo al destino.
-(Zsuzsa Bánk) buon pomeriggio 😘 💕 #BuonaDomenica #19gennaio #FelizDomingo #felizdomingoatodos https://t.co/TJAgpLIVTu",10,41,0.006206478958522554,68,0,0,2,4,0,1,0,4.76174044
-14,Orietta's Recipes,2020-01-19 11:53:30,Le lasagne sono il piatto principe della domenica ☺️ 💞! Siete d'accordo con me? Oggi quindi!!!! 😍 lasagne di zucchine 😋 https://t.co/CL6s3h8jp4 #BuongiornoATutti #BuonaDomenica #SundayMotivation #FelizDomingo #19gennaio https://t.co/Vx3sxLUhDX,29,113,0.01710566151983046,87,1,5,4,5,0,2,0,5.47882439
-15,Orietta's Recipes,2020-01-19 08:46:46,Pronti! 😋 😋 😋 #BuonaDomenica #19gennaio #SundayMorning #pancakes #FelizDomingo https://t.co/UkGwynw0dK,7,64,0.009688162276718136,6,0,1,3,5,0,1,0,1.0
-16,Orietta's Recipes,2020-01-19 07:41:45,Buona domenica amici! Spero possiate riposare e godervi una buona colazione! Oggi pancakes 🥞 ❤️ 🥞 https://t.co/SAAIjC3CWY #sunday #buonadomenica #19gennaio #felizdomingoatodos https://t.co/P1zS1JR2VH,34,150,0.022706630336058128,76,0,2,3,4,0,2,0,4.57701619
-17,Orietta's Recipes,2020-01-18 18:44:17,Stasera tutti a casa mia 🏡! Pizza per tutti 🍕 🍕 🍕 🍕!!🍻 Vi aspetto 🍺🍺😘😘😃 #pizza #SaturdayMotivation #FelizSabado #food #18gennaio https://t.co/UHnDPMuPrF,27,137,0.02073872237359976,42,0,3,11,5,0,1,0,3.95800915
-18,Orietta's Recipes,2020-01-18 11:35:38,"Buon pranzo 😋 😋 oggi ricco, gustoso, speciale! Tutto in una ricetta. Sobrebarriga, costolette di maiale alla colombiana 🍷 https://t.co/3xsrzrGFdV #food #18gennaio #yummy #food #SaturdayMotivation #FelizSabado https://t.co/WICAWrs06p",16,58,0.00877989706327581,95,0,1,3,6,0,2,0,5.47968633
-19,Orietta's Recipes,2020-01-18 10:45:26,"Fuori ☔ piove, il cielo è grigio e fa anche 🏔 freddo ma 💖💖, il calore, il colore e l'allegria la portiamo noi, sempre, con i gesti gli sguardi ed i sorrisi. #amoresempre #18gennaio https://t.co/M24aCKNHQg",9,101,0.01528913109294581,113,0,0,4,2,0,1,0,6.57294403
-20,Orietta's Recipes,2020-01-18 07:42:55,"Felice sabato! 😘Chi fa colazione con me? Biscotti al doppio cioccolato 😋, quindi doppia dolcezza 😁😘https://t.co/5PljB2Qp9o #SaturdayMotivation #FelizSabado #food #18gennaio #yummy #cioccolato https://t.co/tUPg8cYqSz",25,120,0.018165304268846504,77,1,1,4,6,0,2,0,5.13959835
-21,Orietta's Recipes,2020-01-17 18:09:56,Stasera cena a base di pesce! Tonno alla piastra con salsa di soia e menta 😋 😋. Veloce sano e gustoso. La ricetta ⬇️ https://t.co/RMDtXeq6tP #food #FridayMotivation #FelizViernes #weekend #17gennaio https://t.co/Hn2G3WWAPD,21,82,0.012412957917045109,86,0,1,3,5,0,2,0,5.77964852
-22,Orietta's Recipes,2020-01-17 11:57:39,"Buon pranzo, io oggi pranzo leggero con il mio  cous cous alle verdure speziato 😁😘. 🍷. Buon appetito #FridayMotivation #FelizViernes #food #foodie #venerdi17 #17gennaio https://t.co/bRXUw8oE4L",27,75,0.011353315168029064,76,0,0,3,6,0,1,0,5.15104543
-23,Orietta's Recipes,2020-01-17 07:51:15,Buongiorno e grazie ancora a tutti per gli auguri!!! 😍 😍 😁😘😍❤️Oggi colazione salata con i miei Panini al latte! Voi dolce o salata quale scegliete? https://t.co/xgC8CPCg4e #food #FelizViernes #venerdi17 #foodie https://t.co/5QUuXECpBm,19,98,0.014834998486224644,110,1,4,6,4,0,2,0,5.98718964
-24,La Cucina Italiana,2020-01-23 23:46:11,E all'improvviso ti salgono questi dubbi che non ti fanno prendere sonno! #arachidi  😂 🤔 https://t.co/y1iFVMvXnQ,0,3,3.8400491526291536e-05,60,0,1,2,1,0,1,0,4.30497715
-25,La Cucina Italiana,2020-01-23 23:03:20,I consigli per la prossima settimana 😎 https://t.co/zAQFt8Cjzf,1,6,7.680098305258307e-05,31,0,0,1,0,0,1,0,2.90554908
-26,La Cucina Italiana,2020-01-23 22:14:44,"Una cena per sostenere il progetto Bass, un ausilio che consente alle persone disabili di provare lo snowboard 💕 https://t.co/h4ALTWH0DM",0,2,2.560032768419436e-05,92,0,0,1,0,0,1,0,5.7806588
-27,La Cucina Italiana,2020-01-23 21:25:44,"A tutte le volte che, tornati a casa, ci inventiamo la cena con quel che c'è!  
-#gattò  #gattòdipatate  #patate  https://t.co/7iqH0bloV7",2,12,0.00015360196610516614,57,0,1,0,3,0,1,0,4.81169916
-28,La Cucina Italiana,2020-01-23 20:37:09,Non è che ne avete ancora qualcuno in giro per casa? 😄 https://t.co/82yBhaO8Pe,2,10,0.00012800163842097178,40,1,0,1,0,0,1,0,4.24853193
-29,La Cucina Italiana,2020-01-23 19:47:40,Il grande amore 💖 #SanValentino  https://t.co/uF9EgfFUd8,0,4,5.1200655368388706e-05,13,0,0,1,1,0,1,0,2.18300547
-30,La Cucina Italiana,2020-01-23 18:59:41,Consigli dagli amici sardi? #FREGOLA  😋 https://t.co/cKPKrPQDtA,2,6,7.680098305258307e-05,23,1,0,1,1,0,1,0,2.63748898
-31,La Cucina Italiana,2020-01-23 18:17:35,Ogni tanto ci torna in mente e ci viene voglia di cucinare il #pollo così 😋 https://t.co/y5QfNEaCFw,1,12,0.00015360196610516614,52,0,0,1,1,0,1,0,4.79282039
-32,La Cucina Italiana,2020-01-23 17:42:14,Come ve la cavate con la pasta fillo? 🤔 https://t.co/TRvunceLHw,6,19,0.00024320311299984637,29,1,0,1,0,0,1,0,3.69144423
-33,La Cucina Italiana,2020-01-23 17:02:10,"#Impanare, amore e fantasia 😍 https://t.co/KPItYeBVl5",4,19,0.00024320311299984637,14,0,0,1,1,0,1,0,1.73105243
-34,La Cucina Italiana,2020-01-23 16:28:47,Da spalmare sul pane è davvero eccezionale 😍 https://t.co/PaDxhqjaII,4,16,0.00020480262147355482,35,0,0,1,0,0,1,0,3.29208182
-35,La Cucina Italiana,2020-01-23 16:06:06,LA RICETTA ⬇ #Wellington https://t.co/EDN8bF7bkv,4,31,0.00039680507910501255,9,0,0,1,1,0,1,0,1.66709796
-36,La Cucina Italiana,2020-01-23 15:44:46,Ecco tante ricette dolci con le mele ⬇ https://t.co/cCRdBE5JEz,0,5,6.400081921048589e-05,30,0,0,1,0,0,1,0,3.54348879
-37,La Cucina Italiana,2020-01-23 15:14:12,#Pizza fatta in casa! Ecco la ricetta semplice semplice 🍕 https://t.co/8R3ubmHpYD,4,20,0.0002560032768419436,40,0,1,1,1,0,1,0,3.54404042
-38,La Cucina Italiana,2020-01-23 14:35:51,Usiamolo bene questo freezer!  😉 https://t.co/WyGDTxyLlv,1,7,8.960114689468026e-05,25,0,1,1,0,0,1,0,2.62794879
-39,La Cucina Italiana,2020-01-23 14:12:55,"Che dire di questo piatto...divino!
-#millefoglie #ricotta #bufala #friarielli   https://t.co/h9pkFQFC7M",1,10,0.00012800163842097178,27,0,1,0,4,0,1,0,2.91443934
-40,La Cucina Italiana,2020-01-23 13:35:50,"La #FestaDiPrimavera, meglio conosciuta come #CapodannoCinese è alle porte! Scopriamo tutte le usanze e le buone maniere prima di entrare nell'anno del topo 🐭 #annodeltopo  https://t.co/9FZ5dZtU3D",0,3,3.8400491526291536e-05,97,0,1,1,3,0,1,0,5.92016602
-41,La Cucina Italiana,2020-01-23 13:17:51,"Anche se durante le feste abbiamo esagerato un po' a questo #dolce non potete dire di no!
-#cioccolato #torta   https://t.co/Ve9jEZOdSt",0,9,0.00011520147457887461,65,0,1,0,3,0,1,0,5.29360687
-42,La Cucina Italiana,2020-01-23 12:54:04,"Un #raviolo alternativo, a volte basta cambiare la farina e il gusto si trasforma! 💚 https://t.co/EDWsruO2wF",0,8,0.00010240131073677744,59,0,1,1,1,0,1,0,4.49006499
-43,La Cucina Italiana,2020-01-23 12:10:50,La strepitosa ricetta del #timballo «delle rose»  🌹😍 https://t.co/fusHvEBTkO,3,12,0.00015360196610516614,31,0,0,2,1,0,1,0,3.24583896
-44,La Cucina Italiana,2020-01-23 11:43:19,Noi ve la buttiamo lì. Ma non perdete l'occasione di provare queste ricette 😋 https://t.co/TcqJ9tdA6L,0,7,8.960114689468026e-05,60,0,0,1,0,0,1,0,4.69943845
-45,La Cucina Italiana,2020-01-23 11:21:34,La versione salata è buonissima 😎 https://t.co/CMTxvm3kuR,3,19,0.00024320311299984637,26,0,0,1,0,0,1,0,2.58822207
-46,La Cucina Italiana,2020-01-23 10:49:55,"Le scaloppine,  in ogni variante son fantastiche: oggi ai funghi! https://t.co/40VOxVjkPC",1,7,8.960114689468026e-05,52,0,1,0,0,0,1,0,4.30089927
-47,La Cucina Italiana,2020-01-23 10:07:20,Vome siete messi con l'agrodolce? 😊 https://t.co/2ZCd1mLpPe,0,7,8.960114689468026e-05,27,1,0,1,0,0,1,0,2.9641729
-48,La Cucina Italiana,2020-01-23 09:32:29,Il pesce da mangiare in inverno. Noi ve lo consigliamo così 😎 https://t.co/0gVgNlwCMt,6,27,0.0003456044237366238,47,0,0,1,0,0,1,0,4.49890954
-49,La Cucina Italiana,2020-01-23 08:48:42,Non è #pasta solo per #vegani! Occhio! 😉 https://t.co/w18eUmKNDL,1,3,3.8400491526291536e-05,16,0,2,1,2,0,1,0,2.56099492
-50,La Cucina Italiana,2020-01-23 08:00:54,"Rilettura del famoso #risotto alla Giuseppe Verdi, al posto degli asparagi, che non sono ancora di stagione, abbiamo optato per i #carciofi 😋 https://t.co/I7qphVTQ6M",0,4,5.1200655368388706e-05,98,0,0,1,2,0,1,0,5.9711581
-51,La Cucina Italiana,2020-01-23 06:33:35,"Che ne dite,la prepariamo da portare in ufficio?  
-#insalata  #salad  #lunchbox  #schiscetta  #pausapranzo  https://t.co/LLIaBGEvy6",1,2,2.560032768419436e-05,39,1,0,0,5,0,1,0,3.79708072
-52,La Cucina Italiana,2020-01-23 06:11:57,"Un #dessert veramente semplice, e guardate che bello! 
-#pere  #sfoglia  https://t.co/Z9k27w7bOM",5,27,0.0003456044237366238,36,0,1,0,3,0,1,0,3.24968047
-53,La Cucina Italiana,2020-01-23 05:46:14,Una colazione di lusso! #crostata 😃 https://t.co/3sZehWy6Rv,2,17,0.00021760278531565206,19,0,1,1,1,0,1,0,2.54746896
-54,La Cucina Italiana,2020-01-23 05:00:22,Per iniziare la giornata con una carica di energia: #PROTEINE! #colazione  🍳💪 https://t.co/NXQcZmG9Fp,1,7,8.960114689468026e-05,42,0,1,2,2,0,1,0,3.96961568
-55,La Cucina Italiana,2020-01-22 23:31:02,La #crema golosa al #cioccolato che stupisce per quel tocco agrumato 🤤  https://t.co/SXzELC9L9I,2,13,0.00016640212994726333,41,0,0,1,2,0,1,0,4.01721518
-56,La Cucina Italiana,2020-01-22 22:47:41,Riposatevi con il blu! Guardate qui ⬇ https://t.co/FRPnQyM5H7,0,5,6.400081921048589e-05,29,0,1,1,0,0,1,0,3.24336229
-57,La Cucina Italiana,2020-01-22 22:18:23,"I lāmiàn 拉面 sono gli #spaghetti cinesi tirati a mano, ecco le varietà, le differenze regionali e come farli a casa 😋 https://t.co/hqS93jBWWv",3,7,8.960114689468026e-05,77,0,0,1,1,0,1,0,5.24845519
-58,La Cucina Italiana,2020-01-22 22:11:29,Ha un'origine antichissima ed è il simbolo della cucina di Verona... https://t.co/qlFWpS9L2Q,2,12,0.00015360196610516614,53,0,0,0,0,0,1,0,4.28599118
-59,La Cucina Italiana,2020-01-22 21:26:14,Vi piace l'idea di usare la #zucca come contenitore delle vostre creme? Ovviamente con la polpa di zucca che avete scavato potete fare una bella vellutata 😜 https://t.co/DkPkk4sS3b,0,10,0.00012800163842097178,121,1,0,1,1,0,1,0,6.78033656
-60,La Cucina Italiana,2020-01-22 20:41:50,Ma guarda un po'! 🤔 https://t.co/5YW5GsTV7p,2,14,0.0001792022937893605,12,0,1,1,0,0,1,0,2.58278584
-61,La Cucina Italiana,2020-01-22 20:20:33,"Se siete a Roma, non perdetevelo! 😍 https://t.co/0R8ONoYhYh",2,9,0.00011520147457887461,26,0,1,1,0,0,1,0,2.96402567
-62,La Cucina Italiana,2020-01-22 19:37:35,Quel terribile mal di testa! Attenti a cosa mangiamo! #malditesta  😖 https://t.co/XtyipdYjNu,1,3,3.8400491526291536e-05,43,0,2,1,1,0,1,0,3.83268832
-63,La Cucina Italiana,2020-01-22 19:11:02,Questa #dieta pare che funzioni. Ma parlatene sempre con un medico! #Fiorello  😉 https://t.co/fOcxzs4O9L,2,11,0.00014080180226306896,49,0,1,1,2,0,1,0,4.25501084
-64,La Cucina Italiana,2020-01-22 18:23:52,"Il freddo si fa sentire e noi abbiamo lo combattiamo così! 🍲😋 
-#zuppa  #cicoria  #fregula  https://t.co/egJ0Yoe8YQ",5,21,0.0002688034406840408,46,0,1,2,3,0,1,0,4.2933562
-65,La Cucina Italiana,2020-01-22 17:52:19,Provate la nostra ricetta! Guardate il video! #baccalà #legumi  ⬇⬇⬇ https://t.co/6WPwk5tayq,1,3,3.8400491526291536e-05,37,0,2,3,2,0,1,0,3.51979227
-66,La Cucina Italiana,2020-01-22 17:14:33,15 idee per mangiare i #funghi 😋 https://t.co/cPeJSOndBs,0,0,0.0,18,0,0,1,1,0,1,0,2.58794927
-67,La Cucina Italiana,2020-01-22 16:30:02,Fatto in casa è un'altra cosa! #Cordonbleu 😍 https://t.co/Wz8iFTHXRe,1,11,0.00014080180226306896,22,0,1,1,1,0,1,0,2.94951184
-68,La Cucina Italiana,2020-01-22 15:56:39,Tutti i segreti del pan brioche! 😎 #panbrioche https://t.co/Laxdzb2air,2,11,0.00014080180226306896,26,0,1,1,1,0,1,0,2.97407328
-69,La Cucina Italiana,2020-01-22 15:55:04,"Ecco: in questo preciso momento vorrei essere seduto in una baita alpina, dopo una lunga giornata di sci, e con in mano un #bombardino! 🤗 https://t.co/f3nyf1ujgE",0,1,1.2800163842097176e-05,97,0,1,1,1,0,1,0,6.22415988
-70,La Cucina Italiana,2020-01-22 15:23:29,Oggi a #merenda lo proviamo così 🍞😋 https://t.co/4HNt2TzMZF,0,7,8.960114689468026e-05,18,0,0,2,1,0,1,0,2.60942628
-71,La Cucina Italiana,2020-01-22 15:10:02,"Precisi, precisi! 😋 https://t.co/TtBLkDTk36",1,17,0.00021760278531565206,14,0,1,1,0,0,1,0,1.34164079
-72,La Cucina Italiana,2020-01-22 15:03:06,E voi come lo preparate? #spezzatino 🙂 https://t.co/qtzz0fovJH,1,9,0.00011520147457887461,19,1,0,1,1,0,1,0,2.61472018
-73,La Cucina Italiana,2020-01-22 14:33:47,"Fatela così, e non vi pentirete 😋 #Tartetatin https://t.co/5jggXQZ9RN",2,11,0.00014080180226306896,24,0,0,1,1,0,1,0,2.94848497
-74,La Cucina Italiana,2020-01-22 14:06:39,Una #cena impegnativa 😂😎 https://t.co/s70hoOpBUa,0,3,3.8400491526291536e-05,14,0,0,2,1,0,1,0,1.65663337
-75,La Cucina Italiana,2020-01-22 13:45:52,Tanto buone quanto belle... https://t.co/0JEp84Zfb0,0,1,1.2800163842097176e-05,21,0,0,0,0,0,1,0,2.63747964
-76,La Cucina Italiana,2020-01-22 13:19:45,"Avete mai preparato questi golosi #dolcetti francesi?  
-#eclairs  https://t.co/FiBXDCoYnO",0,4,5.1200655368388706e-05,37,1,0,0,2,0,1,0,3.30542263
-77,La Cucina Italiana,2020-01-22 12:51:30,"E facciamocela sta spaghettata! 
-#spaghetti  #pasta  https://t.co/GBwW1Oby5j",0,4,5.1200655368388706e-05,27,0,1,0,2,0,1,0,2.23606798
-78,La Cucina Italiana,2020-01-22 12:20:58,Un altro modo per portare a tavola le #uova 🥚 https://t.co/AAJrZhos6k,1,9,0.00011520147457887461,30,0,0,1,1,0,1,0,3.51738192
-79,La Cucina Italiana,2020-01-22 11:52:26,"Uno più buono dell'altro! Ecco il segreto #salmone  😋
- https://t.co/AQCYt53I0y",2,20,0.0002560032768419436,32,0,1,1,1,0,1,0,3.54929743
-80,La Cucina Italiana,2020-01-22 11:27:05,Tanti nomi e tante mani per la pasta fresca pugliese! E ora si vola a New York... 😍 https://t.co/jSCFNELW83,1,11,0.00014080180226306896,61,0,1,1,0,0,1,0,5.12220656
-81,La Cucina Italiana,2020-01-22 10:58:08,"Vi suggeriamo uno spuntino...
-#crostini #scgombro #arancia #agrumi  https://t.co/SMgRF1U1zN",0,2,2.560032768419436e-05,23,0,0,0,4,0,1,0,2.62620954
-82,La Cucina Italiana,2020-01-22 10:38:22,Una buona idea 😉 https://t.co/p7IPQZSGVZ,0,3,3.8400491526291536e-05,12,0,0,1,0,0,1,0,2.17804624
-83,La Cucina Italiana,2020-01-22 10:09:38,Oggi si va di #brodo! #pollo   https://t.co/fLwbNY2DFJ,0,3,3.8400491526291536e-05,10,0,1,0,2,0,1,0,2.56668531
-84,La Cucina Italiana,2020-01-22 09:19:35,"Noi ve li abbiamo proposti in versione pollo, ma potete optare anche per una dadolata di pesce, tonno, salmone o rana pescatrice sono prefetti!  
-#paccheri  #pasta  https://t.co/IzpsWektzI",2,4,5.1200655368388706e-05,116,0,1,0,2,0,1,0,6.59799412
-85,La Cucina Italiana,2020-01-22 08:42:12,Facciamo le torte con la pasta frolla! 😘 https://t.co/utQ1uund9i,1,11,0.00014080180226306896,31,0,1,1,0,0,1,0,3.52059083
-86,La Cucina Italiana,2020-01-22 07:57:35,"La semplicità è l'arma vincente per preparare grandi #torte fatte in casa 😍 
-#22gennaio  #buongiorno  #colazione  https://t.co/jNqDAzpet3",8,35,0.0004480057344734013,53,0,0,1,4,0,1,0,4.25912326
-87,La Cucina Italiana,2020-01-22 07:28:00,"Per quelli che non hanno la minima intenzione di pensare alla dieta... 
-#crostata #22gennaio #torte #buongiorno #colazione  https://t.co/2PNcBKT5e3",0,1,1.2800163842097176e-05,56,0,0,0,5,0,1,0,4.659023
-88,La Cucina Italiana,2020-01-22 07:02:21,Ne vogliamo... mangiare! #pasta  😋 https://t.co/7M4sypHM8H,1,2,2.560032768419436e-05,18,0,1,1,1,0,1,0,2.22459479
-89,La Cucina Italiana,2020-01-22 05:01:01,Una super colazione per sentirsi fortissimi! 💪💪 #Budwig  https://t.co/XrUN3GoFIr,1,13,0.00016640212994726333,38,0,1,2,1,0,1,0,3.23107994
-90,La Cucina Italiana,2020-01-21 23:30:28,"Le nuvole non sono mai state così dolci!  
-#meringhe  https://t.co/Xhpzt5pwl8",2,6,7.680098305258307e-05,31,0,1,0,1,0,1,0,3.81399976
-91,La Cucina Italiana,2020-01-21 22:35:34,"Storia, ricetta e dove trovarla! 🌹Che volete di più? https://t.co/u4S0niCABN",6,18,0.00023040294915774922,39,1,1,1,0,0,1,0,3.79353203
-92,La Cucina Italiana,2020-01-21 21:51:58,"Guardate che gran bottino abbiamo nel piatto!
-#panzerotti #porri  https://t.co/cAbq4IXuZ0",2,7,8.960114689468026e-05,38,0,1,0,2,0,1,0,3.55576209
-93,La Cucina Italiana,2020-01-21 21:01:33,Per gli amanti del rosa! 😉 https://t.co/PT9I33bkBZ,1,4,5.1200655368388706e-05,19,0,1,1,0,0,1,0,2.92925374
-94,La Cucina Italiana,2020-01-21 20:19:20,"Se state tossendo, prendete subito del cioccolato! (Ma anche se non state tossendo, non non faremo la spia!) 😂 🍫 #cioccolato #tosse  https://t.co/zQaL58TsVy",3,16,0.00020480262147355482,85,0,2,2,2,0,1,0,5.08730083
-95,La Cucina Italiana,2020-01-21 19:24:15,"Conservare, riciclare, preparare qualcosa di squisito! È la volta del #salmone 😍 https://t.co/aTP3V0nblB",1,3,3.8400491526291536e-05,56,0,1,1,1,0,1,0,4.04028447
-96,La Cucina Italiana,2020-01-21 18:50:46,"Con un morso finirete in paradiso 🤤
-#pane #fonduta  https://t.co/KwsnQfHp8O",5,18,0.00023040294915774922,28,0,0,1,2,0,1,0,3.22135868
-97,La Cucina Italiana,2020-01-21 17:55:15,Avete ripreso ad andare in palestra dopo le abbuffate natalizie? Occhio a cosa mangiate prima dell'allenamento💪 https://t.co/TrILzJ1MTb,0,2,2.560032768419436e-05,93,1,0,1,0,0,1,0,5.34190091
-98,La Cucina Italiana,2020-01-21 17:26:26,"Il 24 gennaio comincia l’anno del topo, con la vigilia e il tradizionale cenone di #capodanno. Come e dove festeggiarlo, fra Chinatown e gli altri ristoranti milanesi, che propongono menu festosi di gran livello 😋
-#capodannocinese #annodeltopo  https://t.co/dt0wX2Sq0b",1,5,6.400081921048589e-05,163,0,0,1,3,0,1,0,7.47913707
-99,La Cucina Italiana,2020-01-21 16:52:14,"Una #pastella eccezionale, il vostro #fritto ne gioverà in leggerezza 😜 https://t.co/soVUO2hDjh",3,17,0.00021760278531565206,42,0,0,1,2,0,1,0,3.77543999
-100,La Cucina Italiana,2020-01-21 16:32:23,"Amici a #cena? Questa potrebbe essere un'idea, no? #pizza  🍕 https://t.co/1UgJZWMfql",3,6,7.680098305258307e-05,34,2,0,1,2,0,1,0,3.29537381
-101,La Cucina Italiana,2020-01-21 16:01:02,Facciamo una buona #merenda #Madeleines 😍 https://t.co/6PvIHAnAEp,7,13,0.00016640212994726333,16,0,0,1,2,0,1,0,2.18264952
-102,La Cucina Italiana,2020-01-21 15:21:48,Ci vuole un fisico bestiale! 😁 #CristianoRonaldo #Juventus #CristianoRonaldo https://t.co/d9FHhlc7Hk,1,4,5.1200655368388706e-05,23,0,1,1,3,0,1,0,2.95038932
-103,La Cucina Italiana,2020-01-21 14:37:25,Calorie? Si vabbè... 😂😋 https://t.co/ii9dTKp59z,0,21,0.0002688034406840408,13,1,0,2,0,0,1,0,2.21296769
-104,La Cucina Italiana,2020-01-21 14:00:47,A voi la scelta! #fonduta #fondue  😋 https://t.co/6L1qTKKAXZ,1,15,0.0001920024576314577,12,0,1,1,2,0,1,0,2.16850422
-105,La Cucina Italiana,2020-01-21 13:10:06,"Una #merenda divertente da fare con tutta la famiglia ❤
-#grissini #crema #dolce  https://t.co/nEvY8eJTmo",2,23,0.00029440376836823513,37,0,0,1,4,0,1,0,3.76459695
-106,La Cucina Italiana,2020-01-21 12:45:32,Come utlizzare l'aquafaba 😃 #aquafaba https://t.co/d9lHjgRq4r,0,4,5.1200655368388706e-05,22,0,0,1,1,0,1,0,2.2094873
-107,La Cucina Italiana,2020-01-21 12:18:39,"Una minestra calda, quando è inverno, piace sempre! 😋 https://t.co/IwfILC4HGP",2,22,0.00028160360452613787,40,0,1,1,0,0,1,0,3.56010209
-108,La Cucina Italiana,2020-01-21 11:49:44,"Com'è andato il Blue Monday? Ok, non pensiamoci più. Oggi è martedì e vediamo di sistemare il resto della settimana: mangiando bene e cucinando rapidamente, per esempio 😎 https://t.co/rpDcjV3Iw7",1,10,0.00012800163842097178,132,1,0,1,0,0,1,0,6.70501487
-109,La Cucina Italiana,2020-01-21 11:23:25,"Queste sono le torte salate che piacciono a noi!
-#quiche #tortasalata   https://t.co/yEpK6mhlV2",2,11,0.00014080180226306896,39,0,1,0,2,0,1,0,3.81218487
-110,La Cucina Italiana,2020-01-21 10:56:02,Buon appetito a tutti! 💚 https://t.co/g83JaQVaFY,0,11,0.00014080180226306896,18,0,1,1,0,0,1,0,2.22612316
-111,La Cucina Italiana,2020-01-21 10:25:52,Ormai è così diffuso che possiamo considerarlo un piatto di casa nostra. Ma sapete farlo nel modo giusto? #hummus #ceci   https://t.co/W9jkuMnN7B,3,16,0.00020480262147355482,84,1,0,0,2,0,1,0,5.65322598
-112,La Cucina Italiana,2020-01-21 10:00:28,"Non so voi, ma io il #Tiramisù potrei mangiarlo a qualsiasi ora della giorno e della notte! 😋😋😋😋😋😋😋😋 https://t.co/2P8WHh30FW",1,16,0.00020480262147355482,64,0,1,8,1,0,1,0,5.01882687
-113,La Cucina Italiana,2020-01-21 09:25:07,Con una marcia in più! #cocotte  😎 https://t.co/5sfVDXpOEf,0,8,0.00010240131073677744,16,0,1,1,1,0,1,0,2.8949544
-114,La Cucina Italiana,2020-01-21 08:32:07,ATTENZIONE! 😋 #SPEZZATINO https://t.co/AZgjtZF0jW,0,3,3.8400491526291536e-05,10,0,1,1,1,0,1,0,1.0
-115,La Cucina Italiana,2020-01-21 08:13:04,"Basta un buon piatto di #tagliatelle al #ragù per mettere d'accordo tutta la famiglia! 
-#pasta #pastafresca #pastaalluovo #ragubolognese #italianfood  https://t.co/VEsT4g4OdQ",6,31,0.00039680507910501255,54,0,1,0,7,0,1,0,4.6796387
-116,La Cucina Italiana,2020-01-21 07:52:50,"😍 SENSAZIONALE VERAMENTE 😋
-#21gennaio #torta #crostata #mele #lamponi  https://t.co/izcJHOYNh2",5,7,8.960114689468026e-05,21,0,0,2,5,0,1,0,1.72903636
-117,La Cucina Italiana,2020-01-21 07:31:15,"🥛Il #latte che diventa verde ed è buonissimo 😋 #matcha 
- https://t.co/XSpCLsCCOS",2,9,0.00011520147457887461,29,0,0,2,2,0,1,0,3.24504676
-118,La Cucina Italiana,2020-01-21 07:01:39,"Fresco e invitante, mangiar bene ci mette di buon umore!  
-#insalata  #salad  #agrumi  #salmone  #carciofi  #arancia  #detox  #light  https://t.co/IgMKx9Nybj",1,12,0.00015360196610516614,45,0,1,0,8,0,1,0,4.07528326
-119,La Cucina Italiana,2020-01-21 05:00:53,Eliminiamo gli ultimi residui dei bagordi delle feste? #21gennaio #dieta #gonfiore 🤔 https://t.co/I8ST8qLnTN,0,8,0.00010240131073677744,46,1,0,1,3,0,1,0,3.86433698
-120,La Cucina Italiana,2020-01-20 23:31:23,Doppia crema all'interno e una copertura super golosa per non farci mancare proprio nulla!  #bigne  #bignè  #dolci  #dessert  https://t.co/kzgvWXxSf5,0,14,0.0001792022937893605,75,0,1,0,4,0,1,0,4.92172434
-121,La Cucina Italiana,2020-01-20 22:31:19,"Nuove mode, antiche origini ⬇ https://t.co/bMjlwmiFR0",0,4,5.1200655368388706e-05,23,0,0,1,0,0,1,0,2.64575131
-122,La Cucina Italiana,2020-01-20 21:38:37,Piatto di condivisione che unisce la famiglia intorno ad una #zucca 😍 https://t.co/sswy3frDe1,0,7,8.960114689468026e-05,51,0,0,1,1,0,1,0,4.23877373
-123,La Cucina Italiana,2020-01-20 20:45:34,"Cucinare non può e non deve essere solo una preoccupazione da sbrigare in fretta, tanto per consumare un pasto. Cucinare può aiutarci a stare meglio e a ritrovare il benessere.  https://t.co/yXhV2okTAD",14,29,0.0003712047514208182,142,0,0,0,0,0,1,0,6.7242852
-124,La Cucina Italiana,2020-01-20 19:53:47,Solo una parola: WOW! https://t.co/MUYJjpBIbJ #roma https://t.co/GAuW5FxKjS,1,10,0.00012800163842097178,16,0,1,0,1,0,2,0,2.58959324
-125,La Cucina Italiana,2020-01-20 19:01:35,"Colorato, rinfrescante e benefico. Ecco cos'è il mukhwas 😍 #mukhwas #india #cucinaindiana  https://t.co/imxsknd14K",2,9,0.00011520147457887461,45,0,0,1,3,0,1,0,3.54559019
-126,La Cucina Italiana,2020-01-20 17:53:15,Questa torta salata è SPAZIALE!  https://t.co/3AgslVZnqq,0,10,0.00012800163842097178,25,0,1,0,0,0,1,0,2.62234817
-127,La Cucina Italiana,2020-01-20 17:01:13,"Oggi prepariamo questo #dolce squisito della pasticceria francese! 
-#financier  #dolci  https://t.co/lhf36Rt1r5",1,10,0.00012800163842097178,52,0,1,0,3,0,1,0,3.57095941
-128,La Cucina Italiana,2020-01-20 16:34:48,"Sì, abbiamo preparato il #gulasch... in un modo tutto nuovo!  https://t.co/Q5S6n5JLL0",0,0,0.0,37,0,1,0,1,0,1,0,3.77936449
-129,La Cucina Italiana,2020-01-20 16:12:00,"Impasto eccezionale, provatelo! 
-#focaccia #focaccine  https://t.co/K8kZZ73024",2,14,0.0001792022937893605,27,0,1,0,2,0,1,0,2.2333552
-130,La Cucina Italiana,2020-01-20 15:27:21,Li conoscete? Scoprite qui come si preparano 👇 https://t.co/crbyGKl7eU,4,13,0.00016640212994726333,37,1,0,1,0,0,1,0,3.57109828
-131,La Cucina Italiana,2020-01-20 14:48:46,"Gli yogashi sono dessert d’ispirazione francese o americana, rivisti con gli occhi e gli ingredienti giapponesi. Ecco dove assaggiarli ⬇ https://t.co/vGwtL63ezr",0,9,0.00011520147457887461,113,0,0,1,0,0,1,0,5.37598127
-132,La Cucina Italiana,2020-01-20 14:25:21,"Olive ascolane, panzerotti, piadine, tigelle e arancini... Tutto questo vi aspetta il 23 gennaio a @ScuolaLCI 🤤 https://t.co/0ZNBAQX4u3 https://t.co/OjLAn4Qw97",3,11,0.00014080180226306896,78,0,0,1,0,1,2,0,4.9559194
-133,La Cucina Italiana,2020-01-20 13:57:37,Il prezzemolo fa bene anche ai capelli 😊 https://t.co/qctWnWBvIQ,2,5,6.400081921048589e-05,32,0,0,1,0,0,1,0,3.56853717
-134,La Cucina Italiana,2020-01-20 13:35:31,La cena del lunedì 😊 https://t.co/pkZWg3RFZM,2,6,7.680098305258307e-05,14,0,0,1,0,0,1,0,2.57554115
-135,La Cucina Italiana,2020-01-20 12:49:22,"Le porzioni si fanno da sole, una #costoletta a testa e tante buone #puntarelle!  #agnello  #carne  https://t.co/6dF73B6QLN",2,9,0.00011520147457887461,43,0,1,0,4,0,1,0,4.28096324
-136,La Cucina Italiana,2020-01-20 12:28:26,CHE FAME! https://t.co/R4PZyUSIAN https://t.co/pIyulFsCNo,0,6,7.680098305258307e-05,7,0,1,0,0,0,2,0,1.67336116
-137,La Cucina Italiana,2020-01-20 11:54:31,PRONTI PER SFIDA? 😱 https://t.co/rC4MJE3bOq,0,10,0.00012800163842097178,14,1,0,1,0,0,1,0,2.17395466
-138,La Cucina Italiana,2020-01-20 11:36:45,"Il Blue Monday è la giornata più triste dell'anno, ma non possiamo accettarlo. Ecco i consigli del coach Roberto D’Incau per spezzare il circolo della negatività.  https://t.co/4XNt8ZB2uQ #bluemonday",1,6,7.680098305258307e-05,129,0,0,0,1,0,1,0,6.68501033
-139,La Cucina Italiana,2020-01-20 11:00:25,"Noi ci sentiamo ispirati! E voi oggi cosa preparate per pranzo?
-#lasagne #verza #zucca  https://t.co/PiAc09PYnZ",1,9,0.00011520147457887461,51,1,1,0,3,0,1,0,4.29408954
-140,La Cucina Italiana,2020-01-20 10:14:29,La torta salata invernale 😋 https://t.co/LprCG8nRLs,1,17,0.00021760278531565206,22,0,0,1,0,0,1,0,2.5953054
-141,La Cucina Italiana,2020-01-20 09:35:08,Questa sera abbiamo voglia di scaldarci così!   https://t.co/6tjzHqUo3q,3,6,7.680098305258307e-05,37,0,1,0,0,0,1,0,3.53766204
-142,La Cucina Italiana,2020-01-20 09:01:11,Il prezzemolo fa bene anche ai capelli 😊 https://t.co/yfegJtIUh3,0,8,0.00010240131073677744,32,0,0,1,0,0,1,0,3.56853717
-143,La Cucina Italiana,2020-01-20 08:19:47,La torta di mele non è una sola: ecco come stravolgerla in ben 8 versioni diverse e dolcissime 😋 https://t.co/XwwWWnElKa #tortadimele #ricette,2,7,8.960114689468026e-05,75,0,0,1,2,0,1,0,5.2511041
-144,La Cucina Italiana,2020-01-20 07:59:57,"È tornato, è qui: il temutissimo #BlueMonday, il terzo lunedì di gennaio, il giorno più triste dell'anno. Noi lo sfidiamo con queste ricette da bava alla bocca 😀😀😀 NON CI AVRAI MAI!  https://t.co/TYTJ9a1G6G",3,4,5.1200655368388706e-05,125,0,1,3,1,0,1,0,7.17797643
-145,La Cucina Italiana,2020-01-20 07:40:58,Una #pasta e #fagioli SUPER! https://t.co/Ndkqmr0vZ7,0,9,0.00011520147457887461,9,0,1,0,2,0,1,0,1.67285064
-146,La Cucina Italiana,2020-01-20 07:22:18,"#Arancini che ingannano! 
-#polenta  #antipasti  #20gennaio  https://t.co/RIeZv9yX2I",1,11,0.00014080180226306896,12,0,1,0,4,0,1,0,1.66910116
-147,La Cucina Italiana,2020-01-20 07:02:37,Buongiorno 😍 https://t.co/2RicVeq5M1,1,14,0.0001792022937893605,10,0,0,1,0,0,1,0,1.0
-148,La Cucina Italiana,2020-01-20 06:27:29,"#Lunedì mattina abbiamo bisogno di un risveglio rinforzato!  
-#20gennaio  #buongiorno  #colazione  #breakfast  https://t.co/vzvlBADJeP",1,18,0.00023040294915774922,44,0,1,0,5,0,1,0,3.53064318
-149,La Cucina Italiana,2020-01-20 04:30:18,"Forza e coraggio, la tavola ci aiuta! 😓😀 #lunedì20gennaio  #BlueMonday  https://t.co/AGFE07sicM",0,4,5.1200655368388706e-05,29,0,1,2,2,0,1,0,3.25829064
-150,La Cucina Italiana,2020-01-19 23:30:28,Il #soufflé con un tocco in più!  https://t.co/psjWcFluP2,1,13,0.00016640212994726333,16,0,1,0,1,0,1,0,3.20198043
-151,La Cucina Italiana,2020-01-19 22:40:38,Questa vi farà impazzire 😍😍😍 https://t.co/lck6vcZd7Y,7,42,0.0005376068813680815,20,0,0,3,0,0,1,0,2.62059018
-152,La Cucina Italiana,2020-01-19 22:03:16,Nel nord della Spagna c'è una città tutta da scoprire... e mangiare! https://t.co/V3WWxdvuVS,0,2,2.560032768419436e-05,50,0,1,0,0,0,1,0,4.30950474
-153,La Cucina Italiana,2020-01-19 21:39:44,Una radice da conoscere: come si può usare in cucina? https://t.co/JqudElpJ3E,0,9,0.00011520147457887461,41,1,0,0,0,0,1,0,4.2852168
-154,La Cucina Italiana,2020-01-19 21:14:15,"Carciofi in tutti i modi, ma sempre croccantissimi! https://t.co/lPvkx4wi3v",0,14,0.0001792022937893605,42,0,1,0,0,0,1,0,3.55920108
-155,La Cucina Italiana,2020-01-19 20:54:33,Questa vi farà impazzire 😍😍😍 https://t.co/VtI6dtUVm3 #napoli,7,23,0.00029440376836823513,20,0,0,3,1,0,1,0,2.62059018
-156,La Cucina Italiana,2020-01-19 20:01:45,"Carciofi in tutti i modi, ma sempre croccantissimi! https://t.co/tqSTHBlZtA",4,26,0.00033280425989452666,42,0,1,0,0,0,1,0,3.55920108
-157,La Cucina Italiana,2020-01-19 19:27:08,Una radice da conoscere: come si può usare in cucina? https://t.co/AWW7qejHe5,3,8,0.00010240131073677744,41,1,0,0,0,0,1,0,4.2852168
-158,La Cucina Italiana,2020-01-19 19:02:43,Nel nord della Spagna c'è una città tutta da scoprire... e mangiare! https://t.co/OsEH4W09PM,0,10,0.00012800163842097178,50,0,1,0,0,0,1,0,4.30950474
-159,La Cucina Italiana,2020-01-19 18:09:09,#Pesce spada avvolto nella pancetta... Altro da dire? 🤤 https://t.co/OocYSpGM6c,2,21,0.0002688034406840408,36,1,0,1,1,0,1,0,3.58143858
-160,La Cucina Italiana,2020-01-19 17:35:31,Farina di grano saraceno e un cubetto di formaggio Valtellina Casera Dop. WOW! 🤤 https://t.co/cu51AzMTPA #sciatt,2,13,0.00016640212994726333,64,0,1,1,1,0,1,0,4.66579368
-161,La Cucina Italiana,2020-01-19 16:52:54,"Leggere come una nuvola 😍
-#eclair #dolci #dessert  https://t.co/oGho69Nqpy",2,11,0.00014080180226306896,20,0,0,1,3,0,1,0,2.57432369
-162,La Cucina Italiana,2020-01-19 16:12:12,Per variare un po' 😜  https://t.co/UmlSDQALRY,0,5,6.400081921048589e-05,14,0,0,1,0,0,1,0,2.5578211
-163,La Cucina Italiana,2020-01-19 15:24:13,Verdure al forno con una panatura SUPER 😋😋😋 https://t.co/sMzKjwXTru,1,9,0.00011520147457887461,33,0,0,3,0,0,1,0,3.52804126
-164,La Cucina Italiana,2020-01-19 15:01:20,Pistachio Brownies: a chocolate obsession &lt;3 https://t.co/eW73MSvsjm #brownies #pistachio,0,15,0.0001920024576314577,39,0,0,0,2,0,1,0,3.0
-165,La Cucina Italiana,2020-01-19 14:07:41,Empanadas del Sudamerica VS impanadas della Sardegna #empanadas #impanadas https://t.co/3YNG1c5e9d,2,12,0.00015360196610516614,46,0,0,0,2,0,1,0,3.57509572
-166,La Cucina Italiana,2020-01-19 13:12:39,Non solo banane! https://t.co/fVyYRb7Xg7,4,15,0.0001920024576314577,13,0,1,0,0,0,1,0,2.18937744
-167,La Cucina Italiana,2020-01-19 12:14:45,"Mettetevi subito all'opera con le #crespelle, questo primo piatto vi farà sognare! 
-#gorgonzola #pranzo  https://t.co/znmnPAPRWY",3,26,0.00033280425989452666,57,0,1,0,3,0,1,0,4.52371407
-168,La Cucina Italiana,2020-01-19 11:18:08,"Una variazione del classico, con tanti pistacchi 😋 #cacioepepe  https://t.co/XQL2HnKJc3 https://t.co/cQZQuo9F9p",0,6,7.680098305258307e-05,41,0,0,1,1,0,2,0,3.52459453
-169,La Cucina Italiana,2020-01-19 10:45:01,"Vi diciamo solo che prelibatezza... 
-#domenica #arrosto  https://t.co/qRVs14Vdyx",3,19,0.00024320311299984637,28,0,0,0,2,0,1,0,2.94162078
-170,La Cucina Italiana,2020-01-19 10:10:04,"Basta poco per essere felici, ma veramente felici! 
-#polenta #domenica #fonduta #19gennaio  https://t.co/PlnV3taM5c",2,15,0.0001920024576314577,41,0,1,0,4,0,1,0,3.54552899
-171,La Cucina Italiana,2020-01-19 09:44:32,Che domenica sarebbe senza dessert? Ecco come risolvere il problema in men che non si dica 😋 https://t.co/3UpwnlcfDo,9,30,0.0003840049152629154,74,1,0,1,0,0,1,0,5.38463381
-172,La Cucina Italiana,2020-01-19 08:54:40,Qualcuno prepara la pasta fresca oggi? Sicuri di conoscere tutte le regole? https://t.co/dJMijUm2L7,10,25,0.00032000409605242945,62,2,0,0,0,0,1,0,4.70464557
-173,La Cucina Italiana,2020-01-19 08:31:38,"Dal medioevo a oggi, tutti i rimedi naturali per migliorare la pelle con una mela seguendo i consigli dell'esperta https://t.co/Gvn8PksDZu",15,23,0.00029440376836823513,94,0,0,0,0,0,1,0,5.45583788
-174,La Cucina Italiana,2020-01-19 07:53:38,"Una #crostata a pois, per dare sfogo alla vostra creatività!
-#domenica #19gennaio #buongiorno #colazione   https://t.co/ltBrGZk6aF",2,16,0.00020480262147355482,39,0,1,0,5,0,1,0,3.79393533
-175,La Cucina Italiana,2020-01-19 07:30:04,Deliziosi canelé! 😍 https://t.co/PR09Hi7n1U #dolci #canelé #bordeaux,3,20,0.0002560032768419436,14,0,1,1,3,0,1,0,1.73205081
-176,La Cucina Italiana,2020-01-19 07:02:26,"Fagioli a colazione? Sì, così 👇 #dorayaki #buongiorno #colazione https://t.co/GldtGqUGgL",0,7,8.960114689468026e-05,21,1,0,1,3,0,1,0,2.2187958
-177,La Cucina Italiana,2020-01-19 05:01:57,"Stuzzichiamo l'appetito con dei piccoli #antipasti 😋
-#domenica #topinambur #19gennaio  https://t.co/42wsgVjIuU",3,14,0.0001792022937893605,34,0,0,1,4,0,1,0,2.96344686
-178,La Cucina Italiana,2020-01-18 23:30:39,Un #dolce al volo 🤤 https://t.co/jDM6TsftqD,5,18,0.00023040294915774922,8,0,0,1,1,0,1,0,2.17419273
-179,La Cucina Italiana,2020-01-18 22:26:35,Dalla spesa al riutilizzo: ecco 10 piccoli consigli da applicare alla nostra vita quotidiana per evitare gli sprechi in cucina 👇 https://t.co/2t0v4x1lNr #antispreco,4,19,0.00024320311299984637,106,0,0,1,1,0,1,0,6.16225511
-180,La Cucina Italiana,2020-01-18 21:49:35,La giusta alimentazione per aiutare il sistema immunitario. Addio influenza!  https://t.co/Pma9Pt53tC,13,23,0.00029440376836823513,65,0,1,0,0,0,1,0,4.26333166
-181,La Cucina Italiana,2020-01-18 21:15:58,"Una ricetta della tradizione contadina piemontese, sempre godurioso! 
- https://t.co/2mNYDuwsDu",19,50,0.0006400081921048589,59,0,1,0,0,0,1,0,3.81330797
-182,La Cucina Italiana,2020-01-18 20:35:15,Un #ostello speciale a #Torino! #Combo   https://t.co/eIcfjUIgwW,5,7,8.960114689468026e-05,11,0,1,0,3,0,1,0,1.67954379
-183,La Cucina Italiana,2020-01-18 20:12:05,"Ma soprattutto, cosa vuol dire mangiare bio? https://t.co/246H3FuCcF #bio",2,7,8.960114689468026e-05,36,1,0,0,1,0,1,0,3.57320672
-184,La Cucina Italiana,2020-01-18 19:08:42,"Una vera delizia per concludere la serata...
-#dolci #dessert #pere 
- https://t.co/NlTFcUhefH",2,11,0.00014080180226306896,35,0,0,0,3,0,1,0,3.48889536
-185,La Cucina Italiana,2020-01-18 18:37:07,Guardate anche che chips golose si possono preparare con le zucchine 🤤 https://t.co/SgKs4odmvy #chips https://t.co/AGm9mmJM5t,1,12,0.00015360196610516614,58,0,0,1,1,0,2,0,4.49780789
-186,La Cucina Italiana,2020-01-18 17:44:07,"Con questa ricetta il #pollo resuscita 🤣
-#carne #secondi  https://t.co/UkS1eIqwSF",3,14,0.0001792022937893605,27,0,0,1,3,0,1,0,2.91089884
-187,La Cucina Italiana,2020-01-18 16:56:29,"Da farcire con creme e ganache, perfetta per fare la millefoglie 😍 https://t.co/9YeoqctTWV",0,12,0.00015360196610516614,53,0,0,1,0,0,1,0,4.25310594
-188,La Cucina Italiana,2020-01-18 15:52:26,Il mare d'inverno CI PIACE! https://t.co/IbnQIUk4Og https://t.co/G2XcB3YISM,0,6,7.680098305258307e-05,21,0,1,0,0,0,2,0,2.9424049
-189,La Cucina Italiana,2020-01-18 15:12:05,"Disseta, depura e aiuta a ridurre il colesterolo. Ecco tutte le proprietà del fico d'India. https://t.co/5UuGJuW5jX",6,28,0.000358404587578721,72,0,0,0,0,0,1,0,4.93008599
-190,La Cucina Italiana,2020-01-18 14:11:55,"Per stupire i vostri ospiti! 
-#pesce #sabato #cena #dinner  https://t.co/mpn2N2JpCc",2,6,7.680098305258307e-05,23,0,1,0,4,0,1,0,2.59115279
-191,La Cucina Italiana,2020-01-18 13:08:44,"CUCCIOLONE DI MAMMA, QUANTO SEI BELLO! 😍😂🤣😍
-Arancini e pasta e fagioli per tutte le taglie! 
-#masterchef #mastercheitalia #masterchefit #antoninocannavacciuolo #gennaroesposito #arancini #pastaefagioli 
- https://t.co/weIbqeKc7J",2,10,0.00012800163842097178,69,0,2,4,7,0,1,0,4.91737222
-192,La Cucina Italiana,2020-01-18 13:04:07,"Quando si gonfiano in forno è un vero spasso!
-#Volauvent #dolci   https://t.co/mrX3SiqOjA",1,12,0.00015360196610516614,35,0,1,0,2,0,1,0,3.80203845
-193,La Cucina Italiana,2020-01-18 11:58:41,Per questa domenica la portata principale è...   https://t.co/ejkDJTum3N,0,8,0.00010240131073677744,36,0,0,0,0,0,1,0,3.2170706
-194,La Cucina Italiana,2020-01-18 10:55:03,"Un alimento che cuciniamo raramente, ma quando ci capita ci impegniamo assai!  https://t.co/0M7daDLWzV",6,21,0.0002688034406840408,64,0,1,0,0,0,1,0,4.60470649
-195,La Cucina Italiana,2020-01-18 10:15:35,Ricette sfiziose da provare 😎 https://t.co/gyuP5UQLjz #brunch #ricettesfiziose https://t.co/STxJBLApN7,0,5,6.400081921048589e-05,24,0,0,1,2,0,2,0,2.61244898
-196,La Cucina Italiana,2020-01-18 09:48:54,Questo weekend la #pizza 🍕 facciamola alternativa!  https://t.co/NvZHDmzc3a,3,11,0.00014080180226306896,36,0,1,1,1,0,1,0,2.94257578
-197,La Cucina Italiana,2020-01-18 08:59:58,Tutto quello che non può mancare in tavola questo mese ⬇ #gennaio #distagione https://t.co/Wgg8de7KNs,3,6,7.680098305258307e-05,44,0,0,1,2,0,1,0,4.27527853
-198,La Cucina Italiana,2020-01-18 08:08:07,"Genuino, perfetto sia in versione dolce che salata. Come vi piace farcirlo? https://t.co/YC5vVh9WQo https://t.co/MEmtw3hm0M",1,7,8.960114689468026e-05,61,1,0,0,0,0,2,0,4.72229919
-199,La Cucina Italiana,2020-01-18 07:46:33,"Questa #ganache al #cioccolato è fantastica!  
-#crostata  #torta  #dolce #sabato #18gennaio  https://t.co/n9gC5yJP6R",3,18,0.00023040294915774922,18,0,1,0,7,0,1,0,2.19468415
-200,La Cucina Italiana,2020-01-18 07:23:56,L'inverno da colorare 😍 https://t.co/gmONToxDIf,3,6,7.680098305258307e-05,18,0,0,1,0,0,1,0,2.20307009
-201,La Cucina Italiana,2020-01-18 06:47:29,"Quando eravamo bambini erano i nostri #panini preferiti, insieme alle michette... ora li facciamo a casa! 
-#pane #sabato #18gennaio  https://t.co/1KGrt1qbPi",10,30,0.0003840049152629154,78,0,1,0,4,0,1,0,4.9845552
-202,La Cucina Italiana,2020-01-18 05:02:23,Nettare degli dei a colazione 😎#buongiorno https://t.co/E2vqXCcQox https://t.co/dwGYsvk1WR,1,14,0.0001792022937893605,25,0,0,1,1,0,2,0,2.64006605
-203,La Cucina Italiana,2020-01-17 23:31:06,Chi ha voglia di una pallina di gelato? Non si mangia solo d'estate 😜  https://t.co/dGzOLpxpHI,3,5,6.400081921048589e-05,53,1,0,1,0,0,1,0,4.83470377
-204,La Cucina Italiana,2020-01-17 22:31:28,Domani facciamo questa ricetta! #legumi https://t.co/99DbiLg7vE,0,2,2.560032768419436e-05,27,0,1,0,1,0,1,0,2.61406477
-205,La Cucina Italiana,2020-01-17 22:08:56,La #cicerchia: la sua produzione era sull'orlo dell'estinzione. Ma poi qualcuno è venuto in soccorso di questi #legumi https://t.co/0J7U5gn1wx,0,8,0.00010240131073677744,79,0,0,0,2,0,1,0,5.22587259
-206,La Cucina Italiana,2020-01-17 21:43:15,"Non a tutti piace, è comprensibile, ma provate a farlo con questa ricetta e vi ricrederete!
-#fegato #cena   https://t.co/YSFv1epub8",2,6,7.680098305258307e-05,72,0,1,0,2,0,1,0,4.70920832
-207,La Cucina Italiana,2020-01-17 21:22:24,"Certo che lo spate, ma... 🤓 #legumi https://t.co/KKOtMKEV29",4,8,0.00010240131073677744,17,0,0,1,1,0,1,0,2.93207983
-208,La Cucina Italiana,2020-01-17 20:59:02,"La gramigna, il bacon, i #ceci: e tanta fame! 😂😋 #legumi  https://t.co/QxVqPfN0LF",1,5,6.400081921048589e-05,28,0,1,2,2,0,1,0,3.23603403
-209,La Cucina Italiana,2020-01-17 20:37:20,"È ancora presto per i #lupini, ma visto che oggi parliamo di #legumi...  https://t.co/VnZ4GXzid5",3,21,0.0002688034406840408,40,0,0,0,2,0,1,0,4.00186881
-210,La Cucina Italiana,2020-01-17 20:12:17,Per una calda cena invernale! Pensateci per domani! #legumi  😘 https://t.co/XzxyDGTogn,2,11,0.00014080180226306896,42,0,2,1,1,0,1,0,3.697377
-211,La Cucina Italiana,2020-01-17 19:42:43,Un classico che non passa mai di moda! #legumi  😋 https://t.co/eZA8r8tNhP,3,22,0.00028160360452613787,30,0,1,1,1,0,1,0,3.75880077
-212,La Cucina Italiana,2020-01-17 19:19:42,Pasta + Ceci + Verza = BONTÀ 😍😋😍 #LEGUMI https://t.co/1Tyj3pYeSL,4,32,0.00040960524294710965,18,0,0,3,1,0,1,0,2.63387975
-213,La Cucina Italiana,2020-01-17 18:54:24,Milano: ecco un ristorante che abbiamo assaggiato per voi!  https://t.co/oZWxgzKqZe,1,3,3.8400491526291536e-05,48,0,1,0,0,0,1,0,4.01768923
-214,La Cucina Italiana,2020-01-17 18:32:52,Abbinamenti fantastici! 😋 #pizza #vino #PizzaDay  https://t.co/FZjqB4bubL,2,8,0.00010240131073677744,21,0,1,1,3,0,1,0,1.73205081
-215,La Cucina Italiana,2020-01-17 18:11:47,#Polpette di #ceci speziate con brunoise di verdure e salsa al pomodoro agrodolce. SLURP #legumi 😋 https://t.co/VywbMAu1ra,1,14,0.0001792022937893605,60,0,0,1,3,0,1,0,4.43667578
-216,La Cucina Italiana,2020-01-17 17:51:11,"Tante idee per cena, ma anche per il pranzo di domani; per la schiscetta da portare al lavoro... #legumi  😎 https://t.co/BhWM5uVTqY",1,4,5.1200655368388706e-05,74,0,0,1,1,0,1,0,5.61693962
-217,La Cucina Italiana,2020-01-17 17:31:07,Provatela e non vi pentirete! 😀 https://t.co/U2ZxG1mcCw,0,14,0.0001792022937893605,24,0,1,1,0,0,1,0,2.5985269
-218,La Cucina Italiana,2020-01-17 17:12:51,La bellezza e la bontà! #legumi https://t.co/StW5tFjDgq,0,1,1.2800163842097176e-05,17,0,1,0,1,0,1,0,2.44764985
-219,La Cucina Italiana,2020-01-17 16:55:04,"Pe' scalda' la panza, ce vole 'na minestra de sostanza! 😂😋 (proverbio di La Cucina Italiana) #legumi https://t.co/bOnNuUqQCV",2,7,8.960114689468026e-05,68,0,1,2,1,0,1,0,5.26147243
-220,La Cucina Italiana,2020-01-17 16:39:12,Una #pizza semplice dafare stasera per festeggiare il #PizzaDay 😍 https://t.co/07njdboGXm,2,18,0.00023040294915774922,40,0,0,1,2,0,1,0,3.49536288
-221,La Cucina Italiana,2020-01-17 16:24:00,Stiamo già pensando alla cena 😋 https://t.co/K6npgCd8yY,1,14,0.0001792022937893605,24,0,0,1,0,0,1,0,2.98338964
-222,La Cucina Italiana,2020-01-17 16:12:00,"#Crespelle dolci, buone, buonissime!  https://t.co/74HCnr2Ryc",0,9,0.00011520147457887461,20,0,1,0,1,0,1,0,2.22910591
-223,La Cucina Italiana,2020-01-17 15:52:30,Sposiamoli nel modo migliore!  https://t.co/QYlWBcpTCQ,2,8,0.00010240131073677744,25,0,1,0,0,0,1,0,2.63694426
-224,La Cucina Italiana,2020-01-17 15:32:42,#Cannabis: piatti stupefacenti! 😜 https://t.co/zDNwriRhTs,0,2,2.560032768419436e-05,18,0,1,1,1,0,1,0,1.72903636
-225,La Cucina Italiana,2020-01-17 15:12:10,#Legumi: ricette gustose e segreti da scoprire ⬇ https://t.co/CKTainytsP,0,8,0.00010240131073677744,32,0,0,1,1,0,1,0,2.97036869
-226,La Cucina Italiana,2020-01-17 14:51:45,"Guardate la nostra ricetta illustrata passo passo ⬇ 
-#stoccafisso  #gratin https://t.co/hnc8hNbpp8",0,6,7.680098305258307e-05,43,0,0,1,2,0,1,0,3.25331419
-227,La Cucina Italiana,2020-01-17 14:30:51,Dalla Calabria un piatto della tradizione che fa sognare! #legumi  😋 https://t.co/oxQAHMNFMs,1,7,8.960114689468026e-05,48,0,1,1,1,0,1,0,4.05743601
-228,La Cucina Italiana,2020-01-17 14:07:52,Questa torta salata sembra un dipinto #legumi 😋 https://t.co/RJ3uMDUHli,0,3,3.8400491526291536e-05,32,0,0,1,1,0,1,0,3.26558756
-229,La Cucina Italiana,2020-01-17 13:47:27,Una ricetta diversa per stupire a tavola! #legumi   https://t.co/Ce06gtWs4F,0,9,0.00011520147457887461,34,0,1,0,1,0,1,0,3.22483591
-230,La Cucina Italiana,2020-01-17 13:28:13,I sapori della stagione fredda in questa insalata meravigliosa #legumi  😜 https://t.co/JknedhA5cv,0,4,5.1200655368388706e-05,54,0,0,1,1,0,1,0,3.81657968
-231,La Cucina Italiana,2020-01-17 13:07:29,"Grande classico dell'inverno! 
-#fagioli  #legumi  #crema  #maltagliati  https://t.co/pIiRjnbWNn",0,12,0.00015360196610516614,25,0,1,0,4,0,1,0,2.23313686
-232,La Cucina Italiana,2020-01-17 12:46:30,I #legumi nella pasta. Ma proprio NELLA pasta! https://t.co/gzF2T51qXY,0,4,5.1200655368388706e-05,30,0,1,0,1,0,1,0,2.64854423
-233,La Cucina Italiana,2020-01-17 12:25:50,#PizzaDay: tre nostre ricette speciali riprese da https://t.co/9TwSWJWvDL  #VogueItalia,0,3,3.8400491526291536e-05,33,0,0,0,2,0,1,0,3.28784278
-234,La Cucina Italiana,2020-01-17 12:12:11,"Toglietevi anche qualche sfizio salato 😋
-#involtini #antipasti  https://t.co/SE2NHpDAiq",1,7,8.960114689468026e-05,34,0,0,1,2,0,1,0,2.98776533
-235,La Cucina Italiana,2020-01-17 11:46:26,#GiornataMondialeDellaPizza: ecco le migliori pizzeria d'Europa https://t.co/Ts1D3D0Lml,0,5,6.400081921048589e-05,29,0,0,0,1,0,1,0,2.95696464
-236,La Cucina Italiana,2020-01-17 11:25:18,"Per quanto amiamo i pizzoccheri, non sono l'unica alternativa per preparare una pasta senza glutine  https://t.co/fplWAPL6df #senzaglutine #granosaraceno",4,14,0.0001792022937893605,83,0,0,0,2,0,1,0,5.0389722
-237,La Cucina Italiana,2020-01-17 11:00:16,Oggi è la giornata mondiale della #pizza e noi vi offriamo questa ricetta 😋 https://t.co/D3C0WoJB93,0,7,8.960114689468026e-05,54,0,0,1,1,0,1,0,4.27406042
-238,La Cucina Italiana,2020-01-17 10:40:37,Provati per voi! 😋 #Bastianich  https://t.co/4XIgpSKHg9,0,2,2.560032768419436e-05,13,0,1,1,1,0,1,0,2.17049522
-239,La Cucina Italiana,2020-01-17 10:36:16,"Nulla è lasciato al caso, con un po' di ricerca nascono piatti equilibrati!   
-#pasta  #linguine  #pranzo  https://t.co/sa4vj1aBaz",2,21,0.0002688034406840408,59,0,1,0,3,0,1,0,4.7114407
-240,La Cucina Italiana,2020-01-17 10:13:06,Buonissime #lenticchie: non le mangerete mica solo a San Silvestro? #legumi  😋 https://t.co/Xzvdr2pCs3,0,8,0.00010240131073677744,45,1,0,1,2,0,1,0,3.82132134
-241,La Cucina Italiana,2020-01-17 09:47:01,Li avrete sicuramente mangiati al ristorante giapponese. Ma scopriamo come farli a casa nostra! #Edamame  https://t.co/ZnKGkrfbpB,5,15,0.0001920024576314577,80,0,1,0,1,0,1,0,4.9542585
-242,La Cucina Italiana,2020-01-17 09:17:23,"Per il #weekend è previsto un accentuarsi del #freddo. Se i piatti a tavola sono questi, evviva! #legumi #pasta #zuppe #minestre   😋 https://t.co/JZnINjHuyp",3,16,0.00020480262147355482,61,0,1,1,6,0,1,0,4.69861092
-243,La Cucina Italiana,2020-01-17 08:53:36,Un'insalatona per sfamarci a pranzo? #legumi  https://t.co/nyHaAsRm2l,0,6,7.680098305258307e-05,30,1,0,0,1,0,1,0,2.58964465
-244,La Cucina Italiana,2020-01-17 08:28:49,🍕🍕🍕 Oggi è il #PizzaDay 🍕🍕🍕 https://t.co/YXbHDQT8CT,4,9,0.00011520147457887461,6,0,0,6,1,0,1,0,1.66087158
-245,La Cucina Italiana,2020-01-17 08:07:27,Avete mai provato ad affumicare in #salmone? Guardate qui 👇 https://t.co/Tl8bAWWlee,1,7,8.960114689468026e-05,40,1,0,1,1,0,1,0,3.83119004
-246,La Cucina Italiana,2020-01-17 07:39:42,"🥕 #Carote appetitose in tutte le forme! 🥕
-#crocchette  https://t.co/CwKJAb78WS",2,7,8.960114689468026e-05,24,0,1,2,2,0,1,0,2.93230655
-247,La Cucina Italiana,2020-01-17 07:03:57,Buone idee per questa giornata 😍 https://t.co/e9qrshROgs,3,14,0.0001792022937893605,26,0,0,1,0,0,1,0,2.93967906
-248,La Cucina Italiana,2020-01-17 06:31:10,"Con una buona spremuta d'arancia, un caffè o un tè caldo la #colazione diventa strepitosa 😋
-#biscotti #venerdì17  https://t.co/somGozdhcE",4,17,0.00021760278531565206,61,0,0,1,3,0,1,0,4.60410345
-249,La Cucina Italiana,2020-01-17 06:05:37,"Oggi dedichiamo il nostro speciale del #venerdì ai #legumi! Iniziamo dai #ceci, ottima alternativa alla #carne!  https://t.co/BPvRbs6M5o",5,34,0.0004352055706313041,67,0,2,0,4,0,1,0,4.73906482
-250,La Cucina Italiana,2020-01-17 05:23:18,Stasera a cena ci starebbero benissimo! #legumi  😍 https://t.co/mciYt8O0KO,2,20,0.0002560032768419436,33,0,1,1,1,0,1,0,2.97783228
-251,La Cucina Italiana,2020-01-17 05:00:38,"Mettiamoli in ordine: oggi è #venerdì17 di un #AnnoBisestile, il venerdì che precede il weekend che ci condurrà al #BlueMonday! Volete anche una martellata su un piede? 🙄... Ah: BUONGIORNO eh! 😂🤣 https://t.co/o0q1xBWqoa",0,2,2.560032768419436e-05,114,1,2,3,3,0,1,0,6.8450939
-252,La Cucina Italiana,2020-01-17 04:03:29,I fagiolini per una insalata speciale 😎 #legumi https://t.co/sHlVZ7Md3W,1,10,0.00012800163842097178,32,0,0,1,1,0,1,0,2.90973482
-253,La Cucina Italiana,2020-01-16 23:31:00,Uno tira l'altro e fermarsi è davvero un'impresa ardua 😍 https://t.co/rWPek0ouaq,0,12,0.00015360196610516614,43,0,0,1,0,0,1,0,3.60317892
-254,La Cucina Italiana,2020-01-16 22:36:51,I nostri consigli #detox  😉 https://t.co/pomJWwtl6J,3,5,6.400081921048589e-05,15,0,0,1,1,0,1,0,1.7234225
-255,La Cucina Italiana,2020-01-16 21:41:41,"Pronti a tuffare il cucchiaio in una calda, confortevole crema di #zucca? 
-#inverno  #funghi  https://t.co/TcbaOsK2H4",3,15,0.0001920024576314577,54,1,0,0,3,0,1,0,4.24520088
-256,La Cucina Italiana,2020-01-16 20:48:17,Pronti per una #dolce #domenica? #torte  https://t.co/zY0w92mlA2,3,25,0.00032000409605242945,12,1,0,0,3,0,1,0,2.14563215
-257,Jeanette M,2020-01-23 21:15:09,"Creamy #vegan dressings are delicious, lower in calories, and super easy to make.  Try this Herbed tofu salad dressing from my friend @Living_Lou for a healthy and tasty alternative! https://t.co/2M4FxhMn1O via @Esienne https://t.co/HKpXYefVnK",6,14,0.0025655121861828845,135,0,1,0,1,2,2,0,6.97765353
-258,Jeanette M,2020-01-23 19:15:07,"It’s almost the weekend!  So, it’s the perfect time to whip up a batch of these easy peasy Scrumptious Tex-Mex Black Bean Burgers.  Delicious . Nutritious. &amp; easy to prepare on the stove! https://t.co/P6QLLGwNSd #vegan #Veganuary #plantbased https://t.co/60uvwwt5cg",8,16,0.0029320139270661537,146,0,2,0,3,0,2,0,7.35056906
-259,Jeanette M,2020-01-23 17:15:02,My first experiment with homemade #vegan “cheese” was this Real Vegan Mozzarella Cheese (Shreddable Block-Style) from Vegan Blueberry.  It is absolutely amazing!  It melts like real cheese for ooey gooey sandwiches! It’s also tasty on its own 🙌🏼 https://t.co/just0fy1Xb https://t.co/SYDuaQa86k,0,2,0.0003665017408832692,189,0,2,2,1,0,2,0,7.68269642
-260,Jeanette M,2020-01-23 15:15:04,"The weekend is almost here! 🙌🏼.  So, it’s the perfect time to whip up a batch of Decadently Delicious Homemade Guacamole!  It’s not only delicious, it’s also good for you, &amp; it’s super easy it is to make from scratch. https://t.co/j3oFq9nuuR #vegan #Veganuary #plantbased https://t.co/G5xSttB7nY",16,31,0.0056807769836906725,165,0,2,2,3,0,2,0,7.95495975
-261,Jeanette M,2020-01-23 14:15:10,Easy Peanut Butter Cookies make such a tasty treat.  Perfect for packed lunches or after school treats.  Try this authentic recipe from my friend @OldFashRecipes  https://t.co/pCKPxKwn8N via @deeddra https://t.co/EpsViHgKbF,7,25,0.0045812717610408645,121,0,0,0,0,2,2,0,6.63928232
-262,Jeanette M,2020-01-23 13:14:03,"Wanted to make your own jam, but afraid of canning?  Never fear.  Easy Small Batch Raspberry Cointreau Jam comes together quickly &amp; doesn’t require canning.  It’s equally good with fresh or frozen berries! https://t.co/ULb9Sy4Kxw #vegan https://t.co/CjyYFIFJDo",19,41,0.007513285688107019,165,1,1,0,1,0,2,0,7.66177096
-263,Jeanette M,2020-01-23 11:55:01,Omurice - オムライス is Japanese comfort food at its finest.  Let my friend @misspickledplum teach you how easy it is to make at home.  Weekend brunch anyone?  https://t.co/SIRAO3419H via @Redneck_Shake https://t.co/ayU1fAHgAm,6,16,0.0029320139270661537,103,1,0,0,0,2,2,0,6.65051509
-264,Jeanette M,2020-01-23 10:01:04,"With gorgeous seasonal grapes in the market, it’s the perfect time to whip up a batch of this creative Creamy White Gazpacho from Malaga!  It’s an easy, cold soup that looks so pretty, but is actually easy to make https://t.co/J399jJL12c #vegetarian https://t.co/M1OUjEfN27",9,17,0.003115264797507788,168,0,1,0,1,0,2,0,8.23559453
-265,Jeanette M,2020-01-23 08:02:02,This amazingly flavorful Korean Steak Sandwich with Jalapenos and Garlic Mayo is my idea of comfort food at its finest.  A wonderful treat for your favorite chili 🌶 fan! https://t.co/P4qiBK9tEy https://t.co/NPwoBpafwA,33,87,0.01594282572842221,137,0,1,1,0,0,2,0,7.11913371
-266,Jeanette M,2020-01-22 19:15:01,You’ve just gotta love these ooey gooey Chocolate Raspberry Bites from @KitchenSanc2ary !  A divine treat your family will surely adore https://t.co/Eec5I73liy via @SplendidFood https://t.co/iYCR1Kebti,12,28,0.005131024372365769,99,0,1,0,0,2,2,0,5.97713548
-267,Jeanette M,2020-01-22 17:15:03,Remember those deliciously addictive food court salads of the late 80s?  Try my easy Asian Chicken Salad with Honey Miso Dressing for a #ThrowbackThursday treat.  Use leftover roast or a rotisserie bird to keep it simple! https://t.co/sA61K4CNby https://t.co/xSoXEBP8KW,7,17,0.003115264797507788,163,1,1,0,1,0,2,0,7.89003928
-268,Jeanette M,2020-01-22 15:15:03,Getting ready for the big game?  You won’t want to miss these 20 (Insanely Good) Super Bowl Appetizers from @junedarville ! https://t.co/czFJ5D1oRd https://t.co/vD4pPmqyOM,11,34,0.006230529595015576,84,1,1,0,0,1,2,0,5.92602016
-269,Jeanette M,2020-01-22 14:15:04,"Shiitake Mushroom and Cabbage Lo Mein is a supremely satisfying weeknight supper that comes together in the blink of an eye.  The recipe uses #vegan stir fry strips for a hearty, satisfying meal that’s even better than takeout! https://t.co/5CmeZANRtU #veganuary #plantbased https://t.co/mpb8YR9VUo",13,25,0.0045812717610408645,179,0,1,0,3,0,2,0,8.00495258
-270,Jeanette M,2020-01-22 13:14:03,"#Vegetarian Thai Green Curry from @amycookreport makes an easy, delicious , &amp; supremely satisfying weeknight supper! https://t.co/2Wbu4e9m5E via @ProfessorKitch1 https://t.co/EDw02Xf3AN",5,12,0.0021990104452996157,78,0,1,0,1,2,2,0,5.03948853
-271,Jeanette M,2020-01-22 11:55:02,"Before the end of tomato season, you’ll want to put up a batch of this tasty Anglo-Indian Sweet and Sour Tomato Chutney.  It’s a refreshing change of pace from ketchup &amp; goes brilliantly with grilled sausage! https://t.co/xHyLovxKvC https://t.co/UmdCJq2yuX",6,20,0.003665017408832692,168,0,1,0,0,0,2,0,7.74774065
-272,Jeanette M,2020-01-22 10:01:04,"Stuffed Chilies make a divine, economical supper that’s oh-so satisfying.  Let my friend @Painlesscooking teach you How to Make Chile Rellenos &amp; share her favorite recipes! https://t.co/xPKC4ht0lR https://t.co/yAO6SJBMME",6,13,0.0023822613157412497,127,0,1,0,0,1,2,0,6.6679498
-273,Jeanette M,2020-01-22 08:49:53,Air-Fried Sweet and Sour Pork Recipe from @aqnguyen is a lightened up version of the takeout classic that you’ll find yourself returning to over &amp; over again! https://t.co/HDbLyYbXyF https://t.co/TIyg1W3rWi,2,9,0.0016492578339747114,122,0,1,0,0,1,2,0,6.63562045
-274,Jeanette M,2020-01-22 08:02:02,"Looking for an easy mid-week treat meal that’s also good for you?  Try these Scrumptious Tex-Mex Black Bean Burgers 🍔 .  They’re addictively delicious, &amp; prepared on the stove for easy mid-week dining https://t.co/P6QLLGwNSd #vegan #veganuary #plantbased https://t.co/mi9v63opul",8,20,0.003665017408832692,159,1,0,1,3,0,2,0,7.10963943
-275,Jeanette M,2020-01-22 07:23:02,"Thanksgiving chopped salad from @Living_Lou  might just be the perfect fresh treat for the cool weather we’ve been having!  With apples, pomegranate pearls, &amp; a shallot dressing, it’s packed with great nutrition &amp; flavor! https://t.co/q2DRKSEArY via @AlanESmith3 https://t.co/0n1Tfk46D0",6,12,0.0021990104452996157,175,0,2,0,0,2,2,0,7.7449256
-276,Jeanette M,2020-01-22 06:44:54,Isn’t this a gorgeous way to start the day? https://t.co/aYDDniRWue,4,9,0.0016492578339747114,33,1,0,0,0,0,1,0,3.73641475
-277,Jeanette M,2020-01-22 06:43:38,Looks like a delicious combination! https://t.co/g6mpAoEQI5,0,1,0.0001832508704416346,30,0,1,0,0,0,1,0,2.579202
-278,Jeanette M,2020-01-22 06:12:41,Looks scrumptious! https://t.co/zmfQAZgBsI,2,7,0.0012827560930914422,16,0,1,0,0,0,1,0,1.71144809
-279,Jeanette M,2020-01-21 21:15:02,"Delicious #Vegan Banana Bread with Oats and Raisins comes together in a jiffy.  Such a cozy treat, and a great way to use brown bananas 🍌 https://t.co/8Fax6B71Vx https://t.co/lS5gil9UTG",8,16,0.0029320139270661537,102,0,0,1,1,0,2,0,6.2095307
-280,Jeanette M,2020-01-21 19:15:05,"Vegan Mushroom Cabbage Rolls with Lentil &amp; Rice from @MonikasRecipes would make a hearty, cozy #vegan supper! https://t.co/bLyNRa4ueA via @Galas_blog https://t.co/bGHDKe3vvd",12,35,0.006413780465457211,75,0,1,0,1,2,2,0,5.22672152
-281,Jeanette M,2020-01-21 17:15:10,Got a few spotty bananas hanging around the kitchen?  Don’t toss the.  Whip up a quick batch of these Crispy Jamaican Banana Fritters! https://t.co/74BJvGwGxB https://t.co/JeL6kqpYAz,15,34,0.006230529595015576,106,1,1,0,0,0,2,0,6.25307279
-282,Jeanette M,2020-01-21 15:15:02,"If it’s cold outside, this One-Pan English Breakfast 🍳 (or lunch, or dinner) from @Living_Lou  would make such a cozy meal to come home to! https://t.co/1FjmRdpAYG vi @mugikikaku https://t.co/g43LA1NNR0",24,71,0.013010811801356057,97,0,1,1,0,2,2,0,6.43184405
-283,Jeanette M,2020-01-21 14:15:02,"Shiitake Mushroom and Cabbage Lo Mein is a quick, tasty weeknight dish that’s better than takeout &amp; just as fast.  Uses #Vegan  stir fry strips for a hearty, satisfying meal. https://t.co/5CmeZANRtU #Veganuary #plantbased https://t.co/DP3TmNMX4I",10,19,0.003481766538391057,134,0,0,0,3,0,2,0,7.14397364
-284,Jeanette M,2020-01-21 13:47:21,"Lemon Rice Pilaf (Nimbu Bhath) is one of my all-time favorite South Indian treat dishes.  It’s a gorgeous dish for a party &amp; it makes a hearty, delicious workday lunch that’s easy to prep &amp; carry ! https://t.co/wW630eursa #Vegan #Veganuary #plantbased https://t.co/5kjqH8wftU",25,46,0.008429540040315191,156,0,1,0,3,0,2,0,7.82073417
-285,Jeanette M,2020-01-21 13:14:03,Never made your own tortillas? It’s way easier than you think.  Let this Homemade Flour Tortilla Recipe from @I_am_New_Mexico be your guide! https://t.co/AceFrHPABo via @ElGanspo https://t.co/ATk9yvQi9K,8,25,0.0045812717610408645,101,1,1,0,0,2,2,0,6.32364292
-286,Jeanette M,2020-01-21 11:55:03,"This Bright, Fresh Village-Style Greek Salad is as easy to make as t is rich and satisfying .  Better than your local deli version, &amp; almost as quick to toss together! https://t.co/qAqzbzyYIJ https://t.co/nSJAACF75j",12,25,0.0045812717610408645,133,0,1,0,0,0,2,0,6.95562499
-287,Jeanette M,2020-01-21 11:10:34,"Lemon Rice Pilaf from the Instant Pot™, A Quick Delicious Side https://t.co/8sNrCDVtyR https://t.co/VGrgGGuX8Q",4,18,0.003298515667949423,50,0,0,1,0,0,2,0,4.02894648
-288,Jeanette M,2020-01-21 10:01:01,Coconut Cream Pie is one of those old-fashioned diner treats that really deserves a revival.  Don’t miss this terrific recipe from @OldFashRecipes  https://t.co/rxqiyIboQ7 via @mipaella https://t.co/wFcOAE2INs,3,9,0.0016492578339747114,109,0,0,0,0,2,2,0,6.2590366
-289,Jeanette M,2020-01-21 08:02:01,Tomato and Cucumber Salad with Za'atar is a beautiful and easy way to make the most of the season’s most beautiful tomatoes 🍅.  A perfect side for the #braai or for a busy weeknight supper! https://t.co/diIn7xU3ga https://t.co/h175aUvGjs,10,26,0.004764522631482499,143,0,1,1,1,0,2,0,6.93919534
-290,Jeanette M,2020-01-21 07:21:41,Oh yum!!! https://t.co/vJqFlQLi8e,4,10,0.001832508704416346,5,0,3,0,0,0,1,0,1.72780993
-291,Jeanette M,2020-01-21 05:06:16,#TuesdayThoughts https://t.co/EYArYxqXUW,0,3,0.0005497526113249038,0,0,0,0,1,0,1,0,0.0
-292,Jeanette M,2020-01-21 05:05:16,Looks absolutely delicious! 😋 https://t.co/kvKkArCqIl,7,26,0.004764522631482499,24,0,1,1,0,0,1,0,2.17661134
-293,Jeanette M,2020-01-20 21:15:08,"Instant Pot™ Spiced, Poached Pears in Red Wine make an easy, delicious , healthy sweet treat that will fill your kitchen with the heady fragrance of mulled wine! https://t.co/LfWaSwLfwe #Vegan #Veganuary #plantbased https://t.co/rSNljbfC4R",14,25,0.0045812717610408645,129,0,1,1,3,0,2,0,6.93636792
-294,Jeanette M,2020-01-20 19:15:02,"Crêpes are so easy to make from scratch, &amp; the kids love them! Don’t miss this terrific recipe from @CCulinaire (Crêpes, recette facile et inratable) https://t.co/wBKjBcnfQX via @twobigboysblog https://t.co/ApLHms0ezI",21,63,0.01154480483782298,111,0,1,0,0,2,2,0,6.53265863
-295,Jeanette M,2020-01-20 17:15:10,"Whole Wheat Bread requires minimal hands-on time, &amp; is so much better than store bought.  Try my easy peasy recipe for an old-fashioned farm-style loaf your family will adore https://t.co/VJKhK5JjBC https://t.co/jXdfeGg3Uw",13,45,0.008246289169873557,142,0,0,0,0,0,2,0,7.39390146
-296,Jeanette M,2020-01-20 15:15:16,Apple &amp; Lancashire cheese pie from @InSeasonRecipes  makes a delightfully different #meatlessmonday option! https://t.co/GUKxHKGeDQ via @mugikikaku https://t.co/ZBx3iyFiE1,8,17,0.003115264797507788,67,0,1,0,1,2,2,0,4.47875607
-297,Jeanette M,2020-01-20 14:15:11,"Made with #vegan stir fry strips, this hearty Shiitake Mushroom and Cabbage Lo Mein is on the table faster than takeout.  A delicious #meatlessmonday meal that’s packed with rich flavor! https://t.co/5CmeZANRtU #Veganuary #plantbased https://t.co/teoZmvUFaC",2,8,0.0014660069635330768,131,0,1,0,4,0,2,0,7.05448211
-298,Jeanette M,2020-01-20 13:14:02,"Homemade breads are such a treat, &amp; they’re lots easier to make than you may think.  Try this quick Focaccia Bread Recipe from @agoudalife  https://t.co/KguUiGKy94 via @CaptnKennysFr @hippirose https://t.co/U40ZHW4UT6",16,33,0.0060472787245739405,105,0,0,0,0,3,2,0,6.48159954
-299,Jeanette M,2020-01-20 11:55:02,"Scrumptious Tex-Mex Black Bean Burgers make a delicious #meatlessmonday meal the whole family will love.  These #vegan patties cook up beautifully on the stove, for that summer feeling no matter what the weather is up to! https://t.co/P6QLLGwNSd #Veganuary #plantbased https://t.co/6BKbb24wao",6,11,0.0020157595748579804,160,0,1,0,4,0,2,0,7.70281659
-300,Jeanette M,2020-01-20 10:01:01,"Chicken Noodle Soup is always cozy and comforting — especially when it’s homemade! Try this terrific, healthy recipe from @KitchenSanc2ary  https://t.co/nwO5vvMv4w via @Gophergutz1 https://t.co/uZ93xZLmzD",21,60,0.010995052226498077,102,0,1,0,0,2,2,0,5.90073781
-301,Jeanette M,2020-01-20 08:02:02,Miso Glazed Salmon Quinoa Bowls with baby spinach make a deliciously healthy way to start the week! https://t.co/2Plkws283n https://t.co/JIhRegtlY1,21,53,0.009712296133406632,82,0,1,0,0,0,2,0,5.43992463
-302,Jeanette M,2020-01-20 07:23:02,Chicken a la King is one of those delicious old-fashioned dishes that really deserves a revival.  Don’t miss this tasty recipe from @OldFashRecipes  https://t.co/pRgETRKVCs via @IdahNielsen https://t.co/OVgiDVjEaa,10,19,0.003481766538391057,109,0,0,0,0,2,2,0,6.24016868
-303,Jeanette M,2020-01-19 17:15:04,"Zippy, Oven Baked Vietnamese Chicken is an easy, flavorful main that tastes like summer!https://t.co/IMt5Vhpn3C https://t.co/V22DJLqvSl",18,42,0.007696536558548653,72,0,1,0,0,0,2,0,5.09310525
-304,Jeanette M,2020-01-19 16:15:02,It’s mango 🥭 season!  So it’s the perfect time to whip up this easy no-bake mango cheesecake from @1000Cocina ( Cheesecake de Mango con Leche Condensada) https://t.co/rACcEnryPy via @ElGanspo https://t.co/BgDiAnClhl,13,29,0.005314275242807403,112,0,1,1,0,2,2,0,5.93192755
-305,Jeanette M,2020-01-19 15:15:03,"Shiitake Mushroom and Cabbage Lo Mein is a delicious , hearty #vegan meal that’s on the table in less time than takeout! https://t.co/5CmeZANRtU #Veganuary #plantbased https://t.co/BLN6j6tXJC",25,48,0.008796041781198461,90,0,1,0,3,0,2,0,5.94059868
-306,Jeanette M,2020-01-19 14:15:04,Kids of all ages are sure to love these cute Individual Berry No Bake Cheesecakes from @KitchenSanc2ary They’re perfect for packed lunches! https://t.co/b0K9kVpEbV via @mugikikaku https://t.co/fKeKdYhStM,19,54,0.009895547003848268,103,0,1,0,0,2,2,0,6.39765447
-307,Jeanette M,2020-01-19 13:14:02,"Looking for an easy Sunday supper?  Try these simple #Vegetarian Tex-Mex Black Beans from the Instant Pot™.  No pre-soaking required.  Serve them with all your favorite taco 🌮 toppings for a hearty, healthy meal! https://t.co/0R5J5sKORp https://t.co/Y0AEPGZtov",7,10,0.001832508704416346,156,1,1,2,1,0,2,0,7.59153752
-308,Jeanette M,2020-01-19 11:55:01,Chocolate Hershey's Gold Cookies 🍪 from @mindycancook would make a divine Sunday project &amp; a delicious lunchbox treat! https://t.co/U5zPKY4LGB via @ValJone34048585 https://t.co/lKPQFlHTLr,9,20,0.003665017408832692,90,0,1,1,0,2,2,0,5.22820656
-309,Jeanette M,2020-01-19 10:01:02,King Oyster Mushroom Steaks with Fresh Fig Salsa make a divine #vegetarian starter that presents beautifully &amp; tastes great.  Best of all?  It’s quick &amp; easy https://t.co/nf8QDDQ2FT https://t.co/QON7erybup,6,11,0.0020157595748579804,120,1,0,0,1,0,2,0,6.65432477
-310,Jeanette M,2020-01-19 09:02:02,Pavlova is my all-time favorite dessert.  Let my friends @PassionSpoon1 teach you just how easy it is to make at home! https://t.co/YgcJsIHVFj via @IdahNielsen https://t.co/R6a7x3rTRY,37,108,0.019791094007696537,83,0,1,0,0,2,2,0,6.10071805
-311,Jeanette M,2020-01-19 08:02:02,"Planning to break out the #braai this Sunday?  Try these amazing Spiced Bacon and Cheese Burgers from South African 🇿🇦 Grill Master, Jan Braai's, brilliant cookbook, Shisanyama.  The bacon 🥓 &amp; cheese 🧀 are in the patties! https://t.co/hIbkII9zoS https://t.co/Qql6NDucU4",23,46,0.008429540040315191,168,1,1,4,1,0,2,0,7.5651
-312,Jeanette M,2020-01-19 07:23:02,What’s better than Cherry Cobbler?  Only a cobbler with cherries 🍒 picked from a friend’s tree!  You won’t want to miss @DiscoDavid9 ‘s wonderful recipe.  A perfect sweet ending for a wonderful weekend https://t.co/UxaW7UYxQ2 https://t.co/DLHSgd0GyF,4,9,0.0016492578339747114,146,1,1,1,0,1,2,0,6.69655985
-313,Jeanette M,2020-01-19 06:22:28,Yum!!  I’m hungry 😋 just looking at those terrific pizzas! https://t.co/r0cfqAKb8l,6,27,0.004947773501924134,43,0,3,1,0,0,1,0,4.09020864
-314,Jeanette M,2020-01-18 21:15:06,"Making Small Batch Jams is a terrific way to extend the life of seasonal produce.  They’re quick, easy &amp; require no canning skills. Try this Raspberry Cointreau Jam, which works well with either fresh or frozen berries https://t.co/ULb9Sy4Kxw #vegan #Veganuary #plantbased https://t.co/8fvOhBUM05",3,11,0.0020157595748579804,178,0,0,0,3,0,2,0,8.24050721
-315,Jeanette M,2020-01-18 19:15:01,Looking for an amazingly different weekend brunch recipe to surprise and delight?  Try this easy Bread Omelette Recipe from @myFoodWorks ! https://t.co/dyXklFplVV https://t.co/jnDbxomqJt,17,33,0.0060472787245739405,103,1,1,0,0,1,2,0,5.78472016
-316,Jeanette M,2020-01-18 17:15:05,Curried Cauliflower Soup is the perfect winter warmer.  Serve it with a grown up grilled cheese or a Bombay sandwich for a delicious #vegetarian weekend lunch https://t.co/eX2mfyVBI0 https://t.co/UEW1tuXNIH,15,27,0.004947773501924134,120,0,0,0,1,0,2,0,6.37999758
-317,Jeanette M,2020-01-18 15:15:06,"Oven baked Garlic Wedge Fries from @WhatsGabyCookin might just be the perfect weekend treat!  A delicious, lightened up side for the #braai or nibble for sundowners https://t.co/JCDF95dgbz via @sergeiprokopiev https://t.co/w5wGgwRcky",16,27,0.004947773501924134,117,0,1,0,1,2,2,0,6.5760842
-318,Jeanette M,2020-01-18 14:15:01,"Scrumptious Tex-Mex Black Bean Burgers 🍔 are an easy, healthy meal that’ll bring a ray of sunshine to your table on the this rainy Saturday.  Prepare them on the stove, and add all your favorite toppings! https://t.co/P6QLLGwNSd #Vegan #Veganuary #PlantBasedDiet https://t.co/4vUQ4ES3yq",9,15,0.0027487630566245193,161,0,1,1,3,0,2,0,7.75121949
-319,Jeanette M,2020-01-18 13:14:02,Pineapple Mint Sparklers from @kyleecooks are a refreshingly delicious mocktail that presents beautifully.  Perfect for casual weekend entertaining https://t.co/HfSSatbGcR via @IdahNielsen https://t.co/DQLvVlmdf4,11,18,0.003298515667949423,120,0,0,0,0,2,2,0,5.58934596
-320,Jeanette M,2020-01-18 11:55:01,"Homemade Guacamole is Decadently Delicious, and it’s super easy!  A terrific fresh, last-minute dip,burger topping, taco 🌮 topping, or sandwich spread.  https://t.co/8B5hyKGBZN #veganuary #plantbased https://t.co/jxMIpYoB0Y",11,21,0.0038482682792743274,120,0,1,1,2,0,2,0,5.77841946
-321,Jeanette M,2020-01-18 10:01:02,This gorgeous spring risotto with greens from @cucinabenedetta just might be the perfect weekend treat! (Ricetta Risotto Primavera alle verdure) https://t.co/aqtJG6iLbo via @pjames870 https://t.co/Qnksflujqx,6,11,0.0020157595748579804,109,0,1,0,0,2,2,0,5.86776131
-322,Jeanette M,2020-01-18 08:02:02,"Shiitake Mushroom and Cabbage Lo Mein is every bit as good as takeout.  Uses #vegan stir fry strips to make it hearty, &amp; it’s packed with terrific, authentic Chinese flavor.  On the table in just 40 minutes! https://t.co/5CmeZANRtU #plantbased #Veganuary https://t.co/Ye58etTSNR",17,36,0.006597031335898846,159,0,1,0,3,0,2,0,8.12374757
-323,Jeanette M,2020-01-18 07:47:27,So pretty Clare.  Happy birthday! https://t.co/A1tSkMFcsR,5,12,0.0021990104452996157,26,0,1,0,0,0,1,0,2.97364807
-324,Jeanette M,2020-01-18 07:46:36,A delicious weekend treat! https://t.co/QRwqimLPEc,2,4,0.0007330034817665384,22,0,1,0,0,0,1,0,2.15965081
-325,Jeanette M,2020-01-18 07:45:56,Such pretty cupcakes! https://t.co/rgTfjCUwZ1,9,27,0.004947773501924134,18,0,1,0,0,0,1,0,2.22249223
-326,Jeanette M,2020-01-18 07:45:17,Thanks 🙏🏼 so much for your shares.  Hope you have a wonderful weekend! @BakethenEat @Osvaldo_Villar @Katz3333 @re_hungry @rollidriver @twobigboysblog @engelderliebe80 @mugikikaku @rafal45099116 @FudgeeRose @IdahNielsen @CristinaParani1 @JosheFoods_USA @JosheFoods_UK @pjames870,3,11,0.0020157595748579804,53,0,1,2,0,15,0,0,4.48586246
-327,Jeanette M,2020-01-18 07:43:27,A tasty Saturday salad that’s hearty &amp; satisfying! https://t.co/6JF8YtRi1z,3,6,0.0010995052226498076,43,0,1,0,0,0,1,0,3.52232534
-328,Jeanette M,2020-01-18 07:23:02,"Looking for a tasty, comforting meal that’s easy and economical? Try this yummy One Pot Stroganoff from my friend @DiscoDavid9 ! https://t.co/Ph55Yr6JlZ https://t.co/swDrTjBLmy",8,15,0.0027487630566245193,92,1,1,0,0,1,2,0,5.73468631
-329,Jeanette M,2020-01-17 21:15:02,"Roast Shallot-Crusted Chicken Thighs make an easy one dish meal from the oven.  All the crunch of fried chicken, with none of the mess!  https://t.co/KzJHpYVsBv https://t.co/LB5Aj77aeW",20,42,0.007696536558548653,107,0,1,0,0,0,2,0,6.39552724
-330,Jeanette M,2020-01-17 19:15:02,This delicious German Chocolate Cake Recipe from @OldFashRecipes is a tasty weekend treat the whole family will thank you for! https://t.co/ha4Qden8IP via @Darie_OConnor https://t.co/xVyeZK3QZL,4,9,0.0016492578339747114,94,0,1,0,0,2,2,0,5.84507333
-331,Jeanette M,2020-01-17 17:15:06,These Scrumptious Tex-Mex Black Bean Burgers 🍔 are a delicious treat that’s perfect for casual weekend entertaining.  So easy to make &amp; equally tasty on the stove or the #braai https://t.co/P6QLLGwNSd #vegan https://t.co/zueDC8nZwh,12,16,0.0029320139270661537,138,0,0,1,2,0,2,0,7.01033342
-332,Jeanette M,2020-01-17 15:15:15,"This pretty, spicy Fresh Ginger Root Cake from @proportionalplt would make a divine weekend treat! https://t.co/C4r4lfYtAT via @SplendidFood https://t.co/P8FEsFhmJB",8,21,0.0038482682792743274,69,0,1,0,0,2,2,0,5.03897916
-333,Jeanette M,2020-01-17 14:33:12,Yum!! https://t.co/x64L4YO96o,6,15,0.0027487630566245193,3,0,2,0,0,0,1,0,1.0
-334,Jeanette M,2020-01-17 14:26:33,Sounds like so much fun! https://t.co/wVPB4RGG3m,15,44,0.008063038299431922,19,0,1,0,0,0,1,0,2.96504973
-335,Jeanette M,2020-01-17 14:15:02,"The weekend is here!  It’s the perfect time to whip up a quick batch of Decadently Delicious Homemade Guacamole.  Use it as a dip, a topping for tacos 🌮, or a spread for sandwiches 🥪 https://t.co/j3oFq9nuuR #vegan https://t.co/26kYuefhi3",4,6,0.0010995052226498076,139,0,1,2,1,0,2,0,7.25363387
-336,Jeanette M,2020-01-17 13:14:02,This easy Egg Biryani Recipe from @myFoodWorks would make a delicious way to end the week on a festive note https://t.co/CuEMtLBYnV https://t.co/dzc4h4GOmf,8,23,0.004214770020157596,76,0,0,0,0,1,2,0,5.51780908
-337,Jeanette M,2020-01-17 11:58:14,Shiitake Mushroom and Cabbage Lo Mein https://t.co/yoec3Pa29Q on @bloglovin,0,1,0.0001832508704416346,34,0,0,0,0,1,1,0,3.56743953
-338,Jeanette M,2020-01-17 11:55:02,"These easy peasy Blueberry Chia Breakfast Pudding are sweetened with dates for a quick, naughty feeling breakfast that’s actually good for you https://t.co/xFwXDPVdEL #Vegan https://t.co/mqtVNnScVi",5,9,0.0016492578339747114,119,0,0,0,1,0,2,0,6.06855091
-339,Jeanette M,2020-01-17 11:48:32,"Over-indulged during the holidays?  Try this light Shiitake Mushroom &amp; Cabbage Lo Mein.  Uses #vegan stir fry strips for a healthy, hearty version of this Chinese take out treat.  Best of all?  It’s on the table in just 40 minutes! https://t.co/5CmeZANRtU #Veganuary #plantbased https://t.co/a1NawzwuZv",25,43,0.007879787428990287,176,2,1,0,3,0,2,0,8.34816992
-340,Jeanette M,2020-01-17 11:33:06,Shiitake Mushroom and Cabbage Lo Mein https://t.co/ANOioffrDT https://t.co/5lyAOEk62c,2,5,0.000916254352208173,32,0,0,0,0,0,2,0,2.93892931
-341,Jeanette M,2020-01-17 10:01:01,"Sicilian Chicken Tortellini Soup from @ADashofSanity makes an easy, hearty, delicious Friday supper! https://t.co/ROO7zAKD1J via @thanimajohn96 https://t.co/X4N6Ykxs2C",5,10,0.001832508704416346,74,0,1,0,0,2,2,0,4.84674908
-342,Jeanette M,2020-01-17 08:02:02,"The #airfryer makes perfectly golden toasted nuts in mere minutes.  Try these deliciously Easy, Homemade, Air Fryer Masala Nuts.  The perfect last-minute nibble for sundowners https://t.co/7KbKi1afMS #vegetarian https://t.co/ne9J2Nb54D",0,2,0.0003665017408832692,135,0,0,0,2,0,2,0,6.49931082
-343,Jeanette M,2020-01-17 07:23:02,"Got that Friday feeling?  Nothing says “it’s the weekend” quite like a homemade Lasagna Bolognese.  Trust my friends @piattoapp to show you how to make it like an Italian!  While you’re there, sign up for their English @YouTube channel ! https://t.co/GcFktaufBb https://t.co/fD7e7teH29",10,24,0.004398020890599231,168,1,2,0,0,2,2,0,8.12479002
-344,Jeanette M,2020-01-17 06:04:02,"I am love, love, loving this healthy recipe from @misspickledplum !  Thanks 🙏🏼 to @lamaletademaggi for sharing https://t.co/BhTjou4D0W",4,9,0.0016492578339747114,56,0,1,2,0,2,1,0,4.45407285
-345,Jeanette M,2020-01-17 05:56:01,"A delicious, cozy soup!  Thanks to @JosheFoods_UK for sharing. https://t.co/lrY6BfIvXS",9,14,0.0025655121861828845,36,0,1,0,0,1,1,0,3.48006081
-346,Jeanette M,2020-01-17 05:54:08,This looks soooo delicious! Thanks to @JosheFoods_USA for sharing! https://t.co/EaftfqKLp0,17,38,0.006963533076782115,41,0,2,0,0,1,1,0,3.71578834
-347,Jeanette M,2020-01-17 05:51:38,#FridayThoughts https://t.co/K4zLg8snZi,0,0,0.0,0,0,0,0,1,0,1,0,0.0
-348,Jeanette M,2020-01-17 05:50:27,Thanks 🙏🏼 so much for your shares.  Wishing each of you a fantastic weekend!  @engelderliebe80 @dilciaacevedo2 @gumamelangmundo @therealgloria @ralphallen4 @maripos41387029 @kosssauce @rumkispoon @thetruthtriump1 @osvaldo_villar @loriemcdonald12 @idahnielsen @rolandos87,1,6,0.0010995052226498076,58,0,1,2,0,13,0,0,4.67671466
-349,Jeanette M,2020-01-17 04:52:02,Looks absolutely scrumptious! https://t.co/kTddthpfuc,9,21,0.0038482682792743274,26,0,1,0,0,0,1,0,2.21879771
-350,Jeanette M,2020-01-17 04:50:44,Don’t these look tasty? Happy Friday folks! https://t.co/MsyWrexQIN,18,44,0.008063038299431922,34,1,1,0,0,0,1,0,3.56303655
-351,Jeanette M,2020-01-16 21:15:09,"It’s almost the weekend.  So, it’s a great time to let my friend @DiscoDavid9 help you perfect a Classic Manhattan cocktail ! https://t.co/8JnPyOWIA2 https://t.co/vyRx24X7ns",3,11,0.0020157595748579804,86,0,1,0,0,1,2,0,5.68752796
-352,Jeanette M,2020-01-16 19:15:02,"Stuffed with dried apricots and almonds, &amp; perfumed with rich Eastern spices, Creamy Baked Apples with Mughlai Flavors are an easy, prep-ahead treat that is sure to make any meal feel like a special occasion https://t.co/vPIbJftsLi #vegetarian https://t.co/XwpGgxDm2Z",12,24,0.004398020890599231,171,0,0,0,1,0,2,0,7.86746666
-353,Jeanette M,2020-01-16 17:15:04,"When it comes to bread 🍞 , homemade is always best.  You won’t want to miss this terrific recipe from @InsecureHW  https://t.co/xqH93Aeift https://t.co/9x1kANo2lc",6,18,0.003298515667949423,77,0,0,1,0,1,2,0,5.6991772
-354,The Indian Claypot,2020-01-23 00:38:50,"Green Apple Streusel Cake!
-https://t.co/yCP46mrxy6
-#foodporn #foodie #recipes #food #coffeecake #homemade #RecipeOfTheDay #recipe #dessert #yummy #delicious #tasty #getinmybelly #nomnom #eatclean #foodblog #teatime https://t.co/HUGKo25el9",14,23,0.005144263028405279,22,0,1,0,17,0,2,0,2.64575131
-355,The Indian Claypot,2020-01-22 00:21:43,"Crispy and yummy Chicken 65
-https://t.co/cMG5uqoZPx
-#foodporn #foodie #yummy #delicious #eatclean #starter #indian #chicken65 #tasty #recipes #getinmybelly #nomnom #food #recipe #cooking #RecipeOfTheDay #food #foodblogger https://t.co/UqFUJeQPtz",18,32,0.007157235517781256,23,0,0,0,18,0,2,0,2.97644688
-356,The Indian Claypot,2020-01-20 23:52:03,"Whole Wheat, Banana and Walnut Bread!
-https://t.co/o95qDRiJzm
-#foodporn #foodie #food #yummy #delicious #tasty #HealthyEating #baking #breakfast #getinmybelly #eatclean #nomnom #recipes #recipe #RecipeOfTheDay #food #foodbloggers https://t.co/HXVMTYuKID",10,30,0.006709908297919929,30,0,1,0,17,0,2,0,3.29514028
-357,The Indian Claypot,2020-01-20 00:39:16,"Sweet Boondi - with step by step photos and a video!
-https://t.co/w89tBnyxah
-#foodporn #foodie #food #foodblogger #yummy #delicious #tasty #teatime #recipe #RecipeOfTheDay #getinmybelly #festival #indian #dessert #eatclean #nomnom https://t.co/JEvSAG4m1w",14,31,0.006933571907850593,40,0,1,0,16,0,2,0,3.89225738
-358,The Indian Claypot,2020-01-19 01:01:08,"I wanna share some tips to make Soft Chapati for beginners with step by step photos and a video. 
-https://t.co/xPGWP4nnH2
-#foodporn #foodie #healthy #food #lunch #dinner #breakfast #vegetarian #vegan #foodblogger #delicious #yummy #tasty #getinmybelly #cleaneating #eatclean https://t.co/lqIU7MNbOy",12,26,0.005815253858197271,77,0,0,0,16,0,2,0,5.58015541
-359,The Indian Claypot,2020-01-18 00:44:20,"Mixed Berry Muffins!
-https://t.co/q2RzmBX0A2
-#foodporn #foodie #delicious #getinmybelly #yummy #healthy #recipe #dessert #recipes #nomnom #breakfast #RecipeOfTheDay #nomnom #eatclean #food #baking #tasty https://t.co/fGdMmPlOHU",19,41,0.009170208007157236,17,0,1,0,17,0,2,0,2.23606798
-360,The Indian Claypot,2020-01-17 00:01:56,"Almond Carrot Kheer!
-https://t.co/VAe6xtla4y
-#foodporn #foodie #dessert #brainfood #healthy #delicious #vegetarian #recipes #yummy #nomnom #eatclean #getinmybelly #recipe #nomnom #RecipeOfTheDay #indian #homemade #cooking #foodlover #FoodForThought #food https://t.co/O8DqiG6igZ",16,25,0.005591590248266607,17,0,1,0,21,0,2,0,2.23606798
-361,Pickled Plum Food and Drinks,2020-01-23 18:02:02,"Ever tried Chinese #broccoli? 
-It's one of my favorite #Asian leafy #greens! 
-Toss it in a simple garlic and #oystersauce glaze - and it's absolutely out of this world!
-Get the Recipe 👉 https://t.co/Emu1Hbm7lQ https://t.co/sQvQMBdygY",16,35,0.002880184331797235,110,1,2,1,4,0,2,0,6.60810414
-362,Pickled Plum Food and Drinks,2020-01-23 17:03:04,"Is tonight pizza night at your place? 🍕
-What's your favorite pie? 😋
-This #pizza Margherita is delicious... and since the crust is made from cauliflower it's also #GlutenFree!
-Get the Recipe 👉 https://t.co/f0dqTAKfaP https://t.co/RTa5ezo7Lq",15,31,0.0025510204081632647,131,2,1,3,2,0,2,0,6.92216321
-363,Pickled Plum Food and Drinks,2020-01-22 18:02:01,"Ever tried #Omurice - オムライス ?
-It's a Japanese omelette filled with #friedrice + topped with ketchup. 
-#ComfortFood level 10!
-Get the Recipe 👉 https://t.co/4duItcXv7u https://t.co/LRVI0L3svC",14,48,0.003949967083607637,75,1,1,1,3,0,2,0,4.97451716
-364,Pickled Plum Food and Drinks,2020-01-22 17:03:05,"Got 10 minutes to #cook?
-This #YakiUdon Recipe is stir fried Udon #noodles with butter and #dashi powder - served with #bonitoflakes and fresh scallions 🍜
-#readyintenminutes #feedfeed #nom #easyrecipe
-Get the Recipe 👉 https://t.co/dJDrZ6cgw1 https://t.co/fKb3NFdXSm",6,32,0.0026333113890717576,97,1,0,2,9,0,2,0,6.15889463
-365,Pickled Plum Food and Drinks,2020-01-21 18:02:02,"When it comes to #natto, you either love it or hate it 😂
-Learn all about Japanese fermented #soybeans - and a few ways to enjoy this iconic food! 
-#feedfeed #yuminthetum #buzzfeast #delish 
-Read about it here 👉 https://t.co/TXHB2zZ3Cl https://t.co/nFwtIALIom",7,18,0.0014812376563528636,113,0,1,2,6,0,2,0,6.71526707
-366,Pickled Plum Food and Drinks,2020-01-21 17:03:03,"Let's make Chinese veggie #stirfry 🍲😋
-This stir fried napa cabbage is the perfect takeout-fakeout and is ready in 15 minutes!
-#feedfeed #nom #veggies #easyrecipes #betterthantakeout
-Get the Recipe 👉 https://t.co/ALja1pvZ3I https://t.co/OCIQw706Xp",8,37,0.0030447662936142197,104,0,1,3,6,0,2,0,6.23330151
-367,Pickled Plum Food and Drinks,2020-01-20 17:03:06,"What's your favorite use of cucumbers and tomatoes?
-This creamy avocado cucumber tomato salad is my fave! 🍅😋
-Get the Recipe 👉 https://t.co/5hS4YRCHYI https://t.co/PCes6CR6lD",35,154,0.012672811059907836,98,1,1,3,0,0,2,0,5.887434
-368,Pickled Plum Food and Drinks,2020-01-19 18:03:02,"One of the easiest stir fry #recipes EVER!
-Bok Choy With Garlic and Oyster Sauce
-#nom #foodporn #bokchoy #stirfry #betterthantakeout 
-Get the Recipe 👉 https://t.co/e2PxNtbcWX https://t.co/EYBLq0kRi9",6,14,0.001152073732718894,69,0,1,1,6,0,2,0,5.29754313
-369,Pickled Plum Food and Drinks,2020-01-19 17:03:02,"This delicious Harissa #SweetPotato Hash Recipe is a healthy (and spicy) dish 🍲🌶🔥😋
-Perfect for #brunch!
-#harissa #healthy #spicy #foodporn #nom
-Get the Recipe 👉 https://t.co/d2dkB7G54Q https://t.co/AeVUvRkPdf",13,37,0.0030447662936142197,74,0,1,5,7,0,2,0,5.08874642
-370,Pickled Plum Food and Drinks,2020-01-18 17:03:04,"These these hot chili oil infused Sichuan #pickles are delicious! 🥒🥢
-Bonus: making Smacked #Cucumbers With #ChiliOil is a fun way to let off some steam 💪
-#easyrecipe #nom #feedfeed #playwithyourfood #eatwithyoureyes
-Get the Recipe 👉 https://t.co/KjIBPYhAj6 https://t.co/uNeVR7dMdF",21,52,0.004279131007241606,107,0,1,4,8,0,2,0,6.52833163
-371,Pickled Plum Food and Drinks,2020-01-17 18:02:02,"Make this silky, savory Basic Chinese #Congee Recipe with just a few humble ingredients 🍚
-Easy to make – and so satisfying! Let’s hear it for comfort food! 
-#easyrecipe #comfortfood #feedfeed #ricerecipes
-Get the Recipe 👉 https://t.co/uwZ4YcHKNk https://t.co/YjnULiOH09",6,16,0.0013166556945358788,127,0,2,2,5,0,2,0,6.9228272
-372,Pickled Plum Food and Drinks,2020-01-17 17:03:05,"Up and at 'em! ⛅️
-Add a little zing to your morning with this spicy, cleansing and invigorating wellness tonic!
-#morning #drink #f52grams #feedfeed #earlyriser #nom
-Get the Recipe 👉 https://t.co/0kjFDKss5f https://t.co/Mb1wgY7d0n",3,13,0.0010697827518104015,98,0,2,2,6,0,2,0,6.13624068
+,screen_name,time,retweet_count,favourites_count,ratio,len_plain_text,question_marks,esclamation_marks,emojis,hashtags,tags,urls,tf-idf
+0,Orietta's Recipes,18,19,95,0.014380865879503482,44,1,1,3,4,0,2,4.0945283
+1,Orietta's Recipes,11,14,79,0.011958825310323948,72,1,1,4,6,0,2,5.00595205
+2,Orietta's Recipes,7,25,98,0.014834998486224644,102,0,2,7,4,0,2,5.98720864
+3,Orietta's Recipes,17,24,106,0.01604601877081441,101,1,1,4,4,0,2,6.69722103
+4,Orietta's Recipes,11,26,108,0.01634877384196185,115,0,0,3,4,0,2,6.07405297
+5,Orietta's Recipes,7,35,121,0.018316681804420226,48,1,0,4,4,0,2,4.29745612
+6,Orietta's Recipes,18,13,64,0.009688162276718136,96,0,0,3,5,0,2,5.12559939
+7,Orietta's Recipes,11,18,64,0.009688162276718136,53,0,0,9,5,0,2,4.46365874
+8,Orietta's Recipes,7,34,149,0.02255525280048441,107,0,0,4,5,0,2,5.96171597
+9,Orietta's Recipes,18,19,91,0.0137753557372086,105,0,0,3,4,0,2,6.000784
+10,Orietta's Recipes,11,13,89,0.013472600666061155,77,0,1,2,4,0,2,5.13491904
+11,Orietta's Recipes,7,27,126,0.019073569482288832,79,0,0,6,5,0,2,5.25400452
+12,Orietta's Recipes,18,30,165,0.024977293369663943,68,0,1,6,3,0,2,4.55289076
+13,Orietta's Recipes,14,10,41,0.006206478958522554,68,0,0,2,4,0,1,4.76174044
+14,Orietta's Recipes,11,29,113,0.01710566151983046,87,1,5,4,5,0,2,5.47882439
+15,Orietta's Recipes,8,7,64,0.009688162276718136,6,0,1,3,5,0,1,1.0
+16,Orietta's Recipes,7,34,150,0.022706630336058128,76,0,2,3,4,0,2,4.57701619
+17,Orietta's Recipes,18,27,137,0.02073872237359976,42,0,3,11,5,0,1,3.95800915
+18,Orietta's Recipes,11,16,58,0.00877989706327581,95,0,1,3,6,0,2,5.47968633
+19,Orietta's Recipes,10,9,101,0.01528913109294581,113,0,0,4,2,0,1,6.57294403
+20,Orietta's Recipes,7,25,120,0.018165304268846504,77,1,1,4,6,0,2,5.13959835
+21,Orietta's Recipes,18,21,82,0.012412957917045109,86,0,1,3,5,0,2,5.77964852
+22,Orietta's Recipes,11,27,75,0.011353315168029064,76,0,0,3,6,0,1,5.15104543
+23,Orietta's Recipes,7,19,98,0.014834998486224644,110,1,4,6,4,0,2,5.98718964
+24,La Cucina Italiana,23,0,3,3.8400491526291536e-05,60,0,1,2,1,0,1,4.30497715
+25,La Cucina Italiana,23,1,6,7.680098305258307e-05,31,0,0,1,0,0,1,2.90554908
+26,La Cucina Italiana,22,0,2,2.560032768419436e-05,92,0,0,1,0,0,1,5.7806588
+27,La Cucina Italiana,21,2,12,0.00015360196610516614,57,0,1,0,3,0,1,4.81169916
+28,La Cucina Italiana,20,2,10,0.00012800163842097178,40,1,0,1,0,0,1,4.24853193
+29,La Cucina Italiana,19,0,4,5.1200655368388706e-05,13,0,0,1,1,0,1,2.18300547
+30,La Cucina Italiana,18,2,6,7.680098305258307e-05,23,1,0,1,1,0,1,2.63748898
+31,La Cucina Italiana,18,1,12,0.00015360196610516614,52,0,0,1,1,0,1,4.79282039
+32,La Cucina Italiana,17,6,19,0.00024320311299984637,29,1,0,1,0,0,1,3.69144423
+33,La Cucina Italiana,17,4,19,0.00024320311299984637,14,0,0,1,1,0,1,1.73105243
+34,La Cucina Italiana,16,4,16,0.00020480262147355482,35,0,0,1,0,0,1,3.29208182
+35,La Cucina Italiana,16,4,31,0.00039680507910501255,9,0,0,1,1,0,1,1.66709796
+36,La Cucina Italiana,15,0,5,6.400081921048589e-05,30,0,0,1,0,0,1,3.54348879
+37,La Cucina Italiana,15,4,20,0.0002560032768419436,40,0,1,1,1,0,1,3.54404042
+38,La Cucina Italiana,14,1,7,8.960114689468026e-05,25,0,1,1,0,0,1,2.62794879
+39,La Cucina Italiana,14,1,10,0.00012800163842097178,27,0,1,0,4,0,1,2.91443934
+40,La Cucina Italiana,13,0,3,3.8400491526291536e-05,97,0,1,1,3,0,1,5.92016602
+41,La Cucina Italiana,13,0,9,0.00011520147457887461,65,0,1,0,3,0,1,5.29360687
+42,La Cucina Italiana,12,0,8,0.00010240131073677744,59,0,1,1,1,0,1,4.49006499
+43,La Cucina Italiana,12,3,12,0.00015360196610516614,31,0,0,2,1,0,1,3.24583896
+44,La Cucina Italiana,11,0,7,8.960114689468026e-05,60,0,0,1,0,0,1,4.69943845
+45,La Cucina Italiana,11,3,19,0.00024320311299984637,26,0,0,1,0,0,1,2.58822207
+46,La Cucina Italiana,10,1,7,8.960114689468026e-05,52,0,1,0,0,0,1,4.30089927
+47,La Cucina Italiana,10,0,7,8.960114689468026e-05,27,1,0,1,0,0,1,2.9641729
+48,La Cucina Italiana,9,6,27,0.0003456044237366238,47,0,0,1,0,0,1,4.49890954
+49,La Cucina Italiana,8,1,3,3.8400491526291536e-05,16,0,2,1,2,0,1,2.56099492
+50,La Cucina Italiana,8,0,4,5.1200655368388706e-05,98,0,0,1,2,0,1,5.9711581
+51,La Cucina Italiana,6,1,2,2.560032768419436e-05,39,1,0,0,5,0,1,3.79708072
+52,La Cucina Italiana,6,5,27,0.0003456044237366238,36,0,1,0,3,0,1,3.24968047
+53,La Cucina Italiana,5,2,17,0.00021760278531565206,19,0,1,1,1,0,1,2.54746896
+54,La Cucina Italiana,5,1,7,8.960114689468026e-05,42,0,1,2,2,0,1,3.96961568
+55,La Cucina Italiana,23,2,13,0.00016640212994726333,41,0,0,1,2,0,1,4.01721518
+56,La Cucina Italiana,22,0,5,6.400081921048589e-05,29,0,1,1,0,0,1,3.24336229
+57,La Cucina Italiana,22,3,7,8.960114689468026e-05,77,0,0,1,1,0,1,5.24845519
+58,La Cucina Italiana,22,2,12,0.00015360196610516614,53,0,0,0,0,0,1,4.28599118
+59,La Cucina Italiana,21,0,10,0.00012800163842097178,121,1,0,1,1,0,1,6.78033656
+60,La Cucina Italiana,20,2,14,0.0001792022937893605,12,0,1,1,0,0,1,2.58278584
+61,La Cucina Italiana,20,2,9,0.00011520147457887461,26,0,1,1,0,0,1,2.96402567
+62,La Cucina Italiana,19,1,3,3.8400491526291536e-05,43,0,2,1,1,0,1,3.83268832
+63,La Cucina Italiana,19,2,11,0.00014080180226306896,49,0,1,1,2,0,1,4.25501084
+64,La Cucina Italiana,18,5,21,0.0002688034406840408,46,0,1,2,3,0,1,4.2933562
+65,La Cucina Italiana,17,1,3,3.8400491526291536e-05,37,0,2,3,2,0,1,3.51979227
+66,La Cucina Italiana,17,0,0,0.0,18,0,0,1,1,0,1,2.58794927
+67,La Cucina Italiana,16,1,11,0.00014080180226306896,22,0,1,1,1,0,1,2.94951184
+68,La Cucina Italiana,15,2,11,0.00014080180226306896,26,0,1,1,1,0,1,2.97407328
+69,La Cucina Italiana,15,0,1,1.2800163842097176e-05,97,0,1,1,1,0,1,6.22415988
+70,La Cucina Italiana,15,0,7,8.960114689468026e-05,18,0,0,2,1,0,1,2.60942628
+71,La Cucina Italiana,15,1,17,0.00021760278531565206,14,0,1,1,0,0,1,1.34164079
+72,La Cucina Italiana,15,1,9,0.00011520147457887461,19,1,0,1,1,0,1,2.61472018
+73,La Cucina Italiana,14,2,11,0.00014080180226306896,24,0,0,1,1,0,1,2.94848497
+74,La Cucina Italiana,14,0,3,3.8400491526291536e-05,14,0,0,2,1,0,1,1.65663337
+75,La Cucina Italiana,13,0,1,1.2800163842097176e-05,21,0,0,0,0,0,1,2.63747964
+76,La Cucina Italiana,13,0,4,5.1200655368388706e-05,37,1,0,0,2,0,1,3.30542263
+77,La Cucina Italiana,12,0,4,5.1200655368388706e-05,27,0,1,0,2,0,1,2.23606798
+78,La Cucina Italiana,12,1,9,0.00011520147457887461,30,0,0,1,1,0,1,3.51738192
+79,La Cucina Italiana,11,2,20,0.0002560032768419436,32,0,1,1,1,0,1,3.54929743
+80,La Cucina Italiana,11,1,11,0.00014080180226306896,61,0,1,1,0,0,1,5.12220656
+81,La Cucina Italiana,10,0,2,2.560032768419436e-05,23,0,0,0,4,0,1,2.62620954
+82,La Cucina Italiana,10,0,3,3.8400491526291536e-05,12,0,0,1,0,0,1,2.17804624
+83,La Cucina Italiana,10,0,3,3.8400491526291536e-05,10,0,1,0,2,0,1,2.56668531
+84,La Cucina Italiana,9,2,4,5.1200655368388706e-05,116,0,1,0,2,0,1,6.59799412
+85,La Cucina Italiana,8,1,11,0.00014080180226306896,31,0,1,1,0,0,1,3.52059083
+86,La Cucina Italiana,7,8,35,0.0004480057344734013,53,0,0,1,4,0,1,4.25912326
+87,La Cucina Italiana,7,0,1,1.2800163842097176e-05,56,0,0,0,5,0,1,4.659023
+88,La Cucina Italiana,7,1,2,2.560032768419436e-05,18,0,1,1,1,0,1,2.22459479
+89,La Cucina Italiana,5,1,13,0.00016640212994726333,38,0,1,2,1,0,1,3.23107994
+90,La Cucina Italiana,23,2,6,7.680098305258307e-05,31,0,1,0,1,0,1,3.81399976
+91,La Cucina Italiana,22,6,18,0.00023040294915774922,39,1,1,1,0,0,1,3.79353203
+92,La Cucina Italiana,21,2,7,8.960114689468026e-05,38,0,1,0,2,0,1,3.55576209
+93,La Cucina Italiana,21,1,4,5.1200655368388706e-05,19,0,1,1,0,0,1,2.92925374
+94,La Cucina Italiana,20,3,16,0.00020480262147355482,85,0,2,2,2,0,1,5.08730083
+95,La Cucina Italiana,19,1,3,3.8400491526291536e-05,56,0,1,1,1,0,1,4.04028447
+96,La Cucina Italiana,18,5,18,0.00023040294915774922,28,0,0,1,2,0,1,3.22135868
+97,La Cucina Italiana,17,0,2,2.560032768419436e-05,93,1,0,1,0,0,1,5.34190091
+98,La Cucina Italiana,17,1,5,6.400081921048589e-05,163,0,0,1,3,0,1,7.47913707
+99,La Cucina Italiana,16,3,17,0.00021760278531565206,42,0,0,1,2,0,1,3.77543999
+100,La Cucina Italiana,16,3,6,7.680098305258307e-05,34,2,0,1,2,0,1,3.29537381
+101,La Cucina Italiana,16,7,13,0.00016640212994726333,16,0,0,1,2,0,1,2.18264952
+102,La Cucina Italiana,15,1,4,5.1200655368388706e-05,23,0,1,1,3,0,1,2.95038932
+103,La Cucina Italiana,14,0,21,0.0002688034406840408,13,1,0,2,0,0,1,2.21296769
+104,La Cucina Italiana,14,1,15,0.0001920024576314577,12,0,1,1,2,0,1,2.16850422
+105,La Cucina Italiana,13,2,23,0.00029440376836823513,37,0,0,1,4,0,1,3.76459695
+106,La Cucina Italiana,12,0,4,5.1200655368388706e-05,22,0,0,1,1,0,1,2.2094873
+107,La Cucina Italiana,12,2,22,0.00028160360452613787,40,0,1,1,0,0,1,3.56010209
+108,La Cucina Italiana,11,1,10,0.00012800163842097178,132,1,0,1,0,0,1,6.70501487
+109,La Cucina Italiana,11,2,11,0.00014080180226306896,39,0,1,0,2,0,1,3.81218487
+110,La Cucina Italiana,10,0,11,0.00014080180226306896,18,0,1,1,0,0,1,2.22612316
+111,La Cucina Italiana,10,3,16,0.00020480262147355482,84,1,0,0,2,0,1,5.65322598
+112,La Cucina Italiana,10,1,16,0.00020480262147355482,64,0,1,8,1,0,1,5.01882687
+113,La Cucina Italiana,9,0,8,0.00010240131073677744,16,0,1,1,1,0,1,2.8949544
+114,La Cucina Italiana,8,0,3,3.8400491526291536e-05,10,0,1,1,1,0,1,1.0
+115,La Cucina Italiana,8,6,31,0.00039680507910501255,54,0,1,0,7,0,1,4.6796387
+116,La Cucina Italiana,7,5,7,8.960114689468026e-05,21,0,0,2,5,0,1,1.72903636
+117,La Cucina Italiana,7,2,9,0.00011520147457887461,29,0,0,2,2,0,1,3.24504676
+118,La Cucina Italiana,7,1,12,0.00015360196610516614,45,0,1,0,8,0,1,4.07528326
+119,La Cucina Italiana,5,0,8,0.00010240131073677744,46,1,0,1,3,0,1,3.86433698
+120,La Cucina Italiana,23,0,14,0.0001792022937893605,75,0,1,0,4,0,1,4.92172434
+121,La Cucina Italiana,22,0,4,5.1200655368388706e-05,23,0,0,1,0,0,1,2.64575131
+122,La Cucina Italiana,21,0,7,8.960114689468026e-05,51,0,0,1,1,0,1,4.23877373
+123,La Cucina Italiana,20,14,29,0.0003712047514208182,142,0,0,0,0,0,1,6.7242852
+124,La Cucina Italiana,19,1,10,0.00012800163842097178,16,0,1,0,1,0,2,2.58959324
+125,La Cucina Italiana,19,2,9,0.00011520147457887461,45,0,0,1,3,0,1,3.54559019
+126,La Cucina Italiana,17,0,10,0.00012800163842097178,25,0,1,0,0,0,1,2.62234817
+127,La Cucina Italiana,17,1,10,0.00012800163842097178,52,0,1,0,3,0,1,3.57095941
+128,La Cucina Italiana,16,0,0,0.0,37,0,1,0,1,0,1,3.77936449
+129,La Cucina Italiana,16,2,14,0.0001792022937893605,27,0,1,0,2,0,1,2.2333552
+130,La Cucina Italiana,15,4,13,0.00016640212994726333,37,1,0,1,0,0,1,3.57109828
+131,La Cucina Italiana,14,0,9,0.00011520147457887461,113,0,0,1,0,0,1,5.37598127
+132,La Cucina Italiana,14,3,11,0.00014080180226306896,78,0,0,1,0,1,2,4.9559194
+133,La Cucina Italiana,13,2,5,6.400081921048589e-05,32,0,0,1,0,0,1,3.56853717
+134,La Cucina Italiana,13,2,6,7.680098305258307e-05,14,0,0,1,0,0,1,2.57554115
+135,La Cucina Italiana,12,2,9,0.00011520147457887461,43,0,1,0,4,0,1,4.28096324
+136,La Cucina Italiana,12,0,6,7.680098305258307e-05,7,0,1,0,0,0,2,1.67336116
+137,La Cucina Italiana,11,0,10,0.00012800163842097178,14,1,0,1,0,0,1,2.17395466
+138,La Cucina Italiana,11,1,6,7.680098305258307e-05,129,0,0,0,1,0,1,6.68501033
+139,La Cucina Italiana,11,1,9,0.00011520147457887461,51,1,1,0,3,0,1,4.29408954
+140,La Cucina Italiana,10,1,17,0.00021760278531565206,22,0,0,1,0,0,1,2.5953054
+141,La Cucina Italiana,9,3,6,7.680098305258307e-05,37,0,1,0,0,0,1,3.53766204
+142,La Cucina Italiana,9,0,8,0.00010240131073677744,32,0,0,1,0,0,1,3.56853717
+143,La Cucina Italiana,8,2,7,8.960114689468026e-05,75,0,0,1,2,0,1,5.2511041
+144,La Cucina Italiana,7,3,4,5.1200655368388706e-05,125,0,1,3,1,0,1,7.17797643
+145,La Cucina Italiana,7,0,9,0.00011520147457887461,9,0,1,0,2,0,1,1.67285064
+146,La Cucina Italiana,7,1,11,0.00014080180226306896,12,0,1,0,4,0,1,1.66910116
+147,La Cucina Italiana,7,1,14,0.0001792022937893605,10,0,0,1,0,0,1,1.0
+148,La Cucina Italiana,6,1,18,0.00023040294915774922,44,0,1,0,5,0,1,3.53064318
+149,La Cucina Italiana,4,0,4,5.1200655368388706e-05,29,0,1,2,2,0,1,3.25829064
+150,La Cucina Italiana,23,1,13,0.00016640212994726333,16,0,1,0,1,0,1,3.20198043
+151,La Cucina Italiana,22,7,42,0.0005376068813680815,20,0,0,3,0,0,1,2.62059018
+152,La Cucina Italiana,22,0,2,2.560032768419436e-05,50,0,1,0,0,0,1,4.30950474
+153,La Cucina Italiana,21,0,9,0.00011520147457887461,41,1,0,0,0,0,1,4.2852168
+154,La Cucina Italiana,21,0,14,0.0001792022937893605,42,0,1,0,0,0,1,3.55920108
+155,La Cucina Italiana,20,7,23,0.00029440376836823513,20,0,0,3,1,0,1,2.62059018
+156,La Cucina Italiana,20,4,26,0.00033280425989452666,42,0,1,0,0,0,1,3.55920108
+157,La Cucina Italiana,19,3,8,0.00010240131073677744,41,1,0,0,0,0,1,4.2852168
+158,La Cucina Italiana,19,0,10,0.00012800163842097178,50,0,1,0,0,0,1,4.30950474
+159,La Cucina Italiana,18,2,21,0.0002688034406840408,36,1,0,1,1,0,1,3.58143858
+160,La Cucina Italiana,17,2,13,0.00016640212994726333,64,0,1,1,1,0,1,4.66579368
+161,La Cucina Italiana,16,2,11,0.00014080180226306896,20,0,0,1,3,0,1,2.57432369
+162,La Cucina Italiana,16,0,5,6.400081921048589e-05,14,0,0,1,0,0,1,2.5578211
+163,La Cucina Italiana,15,1,9,0.00011520147457887461,33,0,0,3,0,0,1,3.52804126
+164,La Cucina Italiana,15,0,15,0.0001920024576314577,39,0,0,0,2,0,1,3.0
+165,La Cucina Italiana,14,2,12,0.00015360196610516614,46,0,0,0,2,0,1,3.57509572
+166,La Cucina Italiana,13,4,15,0.0001920024576314577,13,0,1,0,0,0,1,2.18937744
+167,La Cucina Italiana,12,3,26,0.00033280425989452666,57,0,1,0,3,0,1,4.52371407
+168,La Cucina Italiana,11,0,6,7.680098305258307e-05,41,0,0,1,1,0,2,3.52459453
+169,La Cucina Italiana,10,3,19,0.00024320311299984637,28,0,0,0,2,0,1,2.94162078
+170,La Cucina Italiana,10,2,15,0.0001920024576314577,41,0,1,0,4,0,1,3.54552899
+171,La Cucina Italiana,9,9,30,0.0003840049152629154,74,1,0,1,0,0,1,5.38463381
+172,La Cucina Italiana,8,10,25,0.00032000409605242945,62,2,0,0,0,0,1,4.70464557
+173,La Cucina Italiana,8,15,23,0.00029440376836823513,94,0,0,0,0,0,1,5.45583788
+174,La Cucina Italiana,7,2,16,0.00020480262147355482,39,0,1,0,5,0,1,3.79393533
+175,La Cucina Italiana,7,3,20,0.0002560032768419436,14,0,1,1,3,0,1,1.73205081
+176,La Cucina Italiana,7,0,7,8.960114689468026e-05,21,1,0,1,3,0,1,2.2187958
+177,La Cucina Italiana,5,3,14,0.0001792022937893605,34,0,0,1,4,0,1,2.96344686
+178,La Cucina Italiana,23,5,18,0.00023040294915774922,8,0,0,1,1,0,1,2.17419273
+179,La Cucina Italiana,22,4,19,0.00024320311299984637,106,0,0,1,1,0,1,6.16225511
+180,La Cucina Italiana,21,13,23,0.00029440376836823513,65,0,1,0,0,0,1,4.26333166
+181,La Cucina Italiana,21,19,50,0.0006400081921048589,59,0,1,0,0,0,1,3.81330797
+182,La Cucina Italiana,20,5,7,8.960114689468026e-05,11,0,1,0,3,0,1,1.67954379
+183,La Cucina Italiana,20,2,7,8.960114689468026e-05,36,1,0,0,1,0,1,3.57320672
+184,La Cucina Italiana,19,2,11,0.00014080180226306896,35,0,0,0,3,0,1,3.48889536
+185,La Cucina Italiana,18,1,12,0.00015360196610516614,58,0,0,1,1,0,2,4.49780789
+186,La Cucina Italiana,17,3,14,0.0001792022937893605,27,0,0,1,3,0,1,2.91089884
+187,La Cucina Italiana,16,0,12,0.00015360196610516614,53,0,0,1,0,0,1,4.25310594
+188,La Cucina Italiana,15,0,6,7.680098305258307e-05,21,0,1,0,0,0,2,2.9424049
+189,La Cucina Italiana,15,6,28,0.000358404587578721,72,0,0,0,0,0,1,4.93008599
+190,La Cucina Italiana,14,2,6,7.680098305258307e-05,23,0,1,0,4,0,1,2.59115279
+191,La Cucina Italiana,13,2,10,0.00012800163842097178,69,0,2,4,7,0,1,4.91737222
+192,La Cucina Italiana,13,1,12,0.00015360196610516614,35,0,1,0,2,0,1,3.80203845
+193,La Cucina Italiana,11,0,8,0.00010240131073677744,36,0,0,0,0,0,1,3.2170706
+194,La Cucina Italiana,10,6,21,0.0002688034406840408,64,0,1,0,0,0,1,4.60470649
+195,La Cucina Italiana,10,0,5,6.400081921048589e-05,24,0,0,1,2,0,2,2.61244898
+196,La Cucina Italiana,9,3,11,0.00014080180226306896,36,0,1,1,1,0,1,2.94257578
+197,La Cucina Italiana,8,3,6,7.680098305258307e-05,44,0,0,1,2,0,1,4.27527853
+198,La Cucina Italiana,8,1,7,8.960114689468026e-05,61,1,0,0,0,0,2,4.72229919
+199,La Cucina Italiana,7,3,18,0.00023040294915774922,18,0,1,0,7,0,1,2.19468415
+200,La Cucina Italiana,7,3,6,7.680098305258307e-05,18,0,0,1,0,0,1,2.20307009
+201,La Cucina Italiana,6,10,30,0.0003840049152629154,78,0,1,0,4,0,1,4.9845552
+202,La Cucina Italiana,5,1,14,0.0001792022937893605,25,0,0,1,1,0,2,2.64006605
+203,La Cucina Italiana,23,3,5,6.400081921048589e-05,53,1,0,1,0,0,1,4.83470377
+204,La Cucina Italiana,22,0,2,2.560032768419436e-05,27,0,1,0,1,0,1,2.61406477
+205,La Cucina Italiana,22,0,8,0.00010240131073677744,79,0,0,0,2,0,1,5.22587259
+206,La Cucina Italiana,21,2,6,7.680098305258307e-05,72,0,1,0,2,0,1,4.70920832
+207,La Cucina Italiana,21,4,8,0.00010240131073677744,17,0,0,1,1,0,1,2.93207983
+208,La Cucina Italiana,20,1,5,6.400081921048589e-05,28,0,1,2,2,0,1,3.23603403
+209,La Cucina Italiana,20,3,21,0.0002688034406840408,40,0,0,0,2,0,1,4.00186881
+210,La Cucina Italiana,20,2,11,0.00014080180226306896,42,0,2,1,1,0,1,3.697377
+211,La Cucina Italiana,19,3,22,0.00028160360452613787,30,0,1,1,1,0,1,3.75880077
+212,La Cucina Italiana,19,4,32,0.00040960524294710965,18,0,0,3,1,0,1,2.63387975
+213,La Cucina Italiana,18,1,3,3.8400491526291536e-05,48,0,1,0,0,0,1,4.01768923
+214,La Cucina Italiana,18,2,8,0.00010240131073677744,21,0,1,1,3,0,1,1.73205081
+215,La Cucina Italiana,18,1,14,0.0001792022937893605,60,0,0,1,3,0,1,4.43667578
+216,La Cucina Italiana,17,1,4,5.1200655368388706e-05,74,0,0,1,1,0,1,5.61693962
+217,La Cucina Italiana,17,0,14,0.0001792022937893605,24,0,1,1,0,0,1,2.5985269
+218,La Cucina Italiana,17,0,1,1.2800163842097176e-05,17,0,1,0,1,0,1,2.44764985
+219,La Cucina Italiana,16,2,7,8.960114689468026e-05,68,0,1,2,1,0,1,5.26147243
+220,La Cucina Italiana,16,2,18,0.00023040294915774922,40,0,0,1,2,0,1,3.49536288
+221,La Cucina Italiana,16,1,14,0.0001792022937893605,24,0,0,1,0,0,1,2.98338964
+222,La Cucina Italiana,16,0,9,0.00011520147457887461,20,0,1,0,1,0,1,2.22910591
+223,La Cucina Italiana,15,2,8,0.00010240131073677744,25,0,1,0,0,0,1,2.63694426
+224,La Cucina Italiana,15,0,2,2.560032768419436e-05,18,0,1,1,1,0,1,1.72903636
+225,La Cucina Italiana,15,0,8,0.00010240131073677744,32,0,0,1,1,0,1,2.97036869
+226,La Cucina Italiana,14,0,6,7.680098305258307e-05,43,0,0,1,2,0,1,3.25331419
+227,La Cucina Italiana,14,1,7,8.960114689468026e-05,48,0,1,1,1,0,1,4.05743601
+228,La Cucina Italiana,14,0,3,3.8400491526291536e-05,32,0,0,1,1,0,1,3.26558756
+229,La Cucina Italiana,13,0,9,0.00011520147457887461,34,0,1,0,1,0,1,3.22483591
+230,La Cucina Italiana,13,0,4,5.1200655368388706e-05,54,0,0,1,1,0,1,3.81657968
+231,La Cucina Italiana,13,0,12,0.00015360196610516614,25,0,1,0,4,0,1,2.23313686
+232,La Cucina Italiana,12,0,4,5.1200655368388706e-05,30,0,1,0,1,0,1,2.64854423
+233,La Cucina Italiana,12,0,3,3.8400491526291536e-05,33,0,0,0,2,0,1,3.28784278
+234,La Cucina Italiana,12,1,7,8.960114689468026e-05,34,0,0,1,2,0,1,2.98776533
+235,La Cucina Italiana,11,0,5,6.400081921048589e-05,29,0,0,0,1,0,1,2.95696464
+236,La Cucina Italiana,11,4,14,0.0001792022937893605,83,0,0,0,2,0,1,5.0389722
+237,La Cucina Italiana,11,0,7,8.960114689468026e-05,54,0,0,1,1,0,1,4.27406042
+238,La Cucina Italiana,10,0,2,2.560032768419436e-05,13,0,1,1,1,0,1,2.17049522
+239,La Cucina Italiana,10,2,21,0.0002688034406840408,59,0,1,0,3,0,1,4.7114407
+240,La Cucina Italiana,10,0,8,0.00010240131073677744,45,1,0,1,2,0,1,3.82132134
+241,La Cucina Italiana,9,5,15,0.0001920024576314577,80,0,1,0,1,0,1,4.9542585
+242,La Cucina Italiana,9,3,16,0.00020480262147355482,61,0,1,1,6,0,1,4.69861092
+243,La Cucina Italiana,8,0,6,7.680098305258307e-05,30,1,0,0,1,0,1,2.58964465
+244,La Cucina Italiana,8,4,9,0.00011520147457887461,6,0,0,6,1,0,1,1.66087158
+245,La Cucina Italiana,8,1,7,8.960114689468026e-05,40,1,0,1,1,0,1,3.83119004
+246,La Cucina Italiana,7,2,7,8.960114689468026e-05,24,0,1,2,2,0,1,2.93230655
+247,La Cucina Italiana,7,3,14,0.0001792022937893605,26,0,0,1,0,0,1,2.93967906
+248,La Cucina Italiana,6,4,17,0.00021760278531565206,61,0,0,1,3,0,1,4.60410345
+249,La Cucina Italiana,6,5,34,0.0004352055706313041,67,0,2,0,4,0,1,4.73906482
+250,La Cucina Italiana,5,2,20,0.0002560032768419436,33,0,1,1,1,0,1,2.97783228
+251,La Cucina Italiana,5,0,2,2.560032768419436e-05,114,1,2,3,3,0,1,6.8450939
+252,La Cucina Italiana,4,1,10,0.00012800163842097178,32,0,0,1,1,0,1,2.90973482
+253,La Cucina Italiana,23,0,12,0.00015360196610516614,43,0,0,1,0,0,1,3.60317892
+254,La Cucina Italiana,22,3,5,6.400081921048589e-05,15,0,0,1,1,0,1,1.7234225
+255,La Cucina Italiana,21,3,15,0.0001920024576314577,54,1,0,0,3,0,1,4.24520088
+256,La Cucina Italiana,20,3,25,0.00032000409605242945,12,1,0,0,3,0,1,2.14563215
+257,Jeanette M,21,6,14,0.0025655121861828845,135,0,1,0,1,2,2,6.97765353
+258,Jeanette M,19,8,16,0.0029320139270661537,146,0,2,0,3,0,2,7.35056906
+259,Jeanette M,17,0,2,0.0003665017408832692,189,0,2,2,1,0,2,7.68269642
+260,Jeanette M,15,16,31,0.0056807769836906725,165,0,2,2,3,0,2,7.95495975
+261,Jeanette M,14,7,25,0.0045812717610408645,121,0,0,0,0,2,2,6.63928232
+262,Jeanette M,13,19,41,0.007513285688107019,165,1,1,0,1,0,2,7.66177096
+263,Jeanette M,11,6,16,0.0029320139270661537,103,1,0,0,0,2,2,6.65051509
+264,Jeanette M,10,9,17,0.003115264797507788,168,0,1,0,1,0,2,8.23559453
+265,Jeanette M,8,33,87,0.01594282572842221,137,0,1,1,0,0,2,7.11913371
+266,Jeanette M,19,12,28,0.005131024372365769,99,0,1,0,0,2,2,5.97713548
+267,Jeanette M,17,7,17,0.003115264797507788,163,1,1,0,1,0,2,7.89003928
+268,Jeanette M,15,11,34,0.006230529595015576,84,1,1,0,0,1,2,5.92602016
+269,Jeanette M,14,13,25,0.0045812717610408645,179,0,1,0,3,0,2,8.00495258
+270,Jeanette M,13,5,12,0.0021990104452996157,78,0,1,0,1,2,2,5.03948853
+271,Jeanette M,11,6,20,0.003665017408832692,168,0,1,0,0,0,2,7.74774065
+272,Jeanette M,10,6,13,0.0023822613157412497,127,0,1,0,0,1,2,6.6679498
+273,Jeanette M,8,2,9,0.0016492578339747114,122,0,1,0,0,1,2,6.63562045
+274,Jeanette M,8,8,20,0.003665017408832692,159,1,0,1,3,0,2,7.10963943
+275,Jeanette M,7,6,12,0.0021990104452996157,175,0,2,0,0,2,2,7.7449256
+276,Jeanette M,6,4,9,0.0016492578339747114,33,1,0,0,0,0,1,3.73641475
+277,Jeanette M,6,0,1,0.0001832508704416346,30,0,1,0,0,0,1,2.579202
+278,Jeanette M,6,2,7,0.0012827560930914422,16,0,1,0,0,0,1,1.71144809
+279,Jeanette M,21,8,16,0.0029320139270661537,102,0,0,1,1,0,2,6.2095307
+280,Jeanette M,19,12,35,0.006413780465457211,75,0,1,0,1,2,2,5.22672152
+281,Jeanette M,17,15,34,0.006230529595015576,106,1,1,0,0,0,2,6.25307279
+282,Jeanette M,15,24,71,0.013010811801356057,97,0,1,1,0,2,2,6.43184405
+283,Jeanette M,14,10,19,0.003481766538391057,134,0,0,0,3,0,2,7.14397364
+284,Jeanette M,13,25,46,0.008429540040315191,156,0,1,0,3,0,2,7.82073417
+285,Jeanette M,13,8,25,0.0045812717610408645,101,1,1,0,0,2,2,6.32364292
+286,Jeanette M,11,12,25,0.0045812717610408645,133,0,1,0,0,0,2,6.95562499
+287,Jeanette M,11,4,18,0.003298515667949423,50,0,0,1,0,0,2,4.02894648
+288,Jeanette M,10,3,9,0.0016492578339747114,109,0,0,0,0,2,2,6.2590366
+289,Jeanette M,8,10,26,0.004764522631482499,143,0,1,1,1,0,2,6.93919534
+290,Jeanette M,7,4,10,0.001832508704416346,5,0,3,0,0,0,1,1.72780993
+291,Jeanette M,5,0,3,0.0005497526113249038,0,0,0,0,1,0,1,0.0
+292,Jeanette M,5,7,26,0.004764522631482499,24,0,1,1,0,0,1,2.17661134
+293,Jeanette M,21,14,25,0.0045812717610408645,129,0,1,1,3,0,2,6.93636792
+294,Jeanette M,19,21,63,0.01154480483782298,111,0,1,0,0,2,2,6.53265863
+295,Jeanette M,17,13,45,0.008246289169873557,142,0,0,0,0,0,2,7.39390146
+296,Jeanette M,15,8,17,0.003115264797507788,67,0,1,0,1,2,2,4.47875607
+297,Jeanette M,14,2,8,0.0014660069635330768,131,0,1,0,4,0,2,7.05448211
+298,Jeanette M,13,16,33,0.0060472787245739405,105,0,0,0,0,3,2,6.48159954
+299,Jeanette M,11,6,11,0.0020157595748579804,160,0,1,0,4,0,2,7.70281659
+300,Jeanette M,10,21,60,0.010995052226498077,102,0,1,0,0,2,2,5.90073781
+301,Jeanette M,8,21,53,0.009712296133406632,82,0,1,0,0,0,2,5.43992463
+302,Jeanette M,7,10,19,0.003481766538391057,109,0,0,0,0,2,2,6.24016868
+303,Jeanette M,17,18,42,0.007696536558548653,72,0,1,0,0,0,2,5.09310525
+304,Jeanette M,16,13,29,0.005314275242807403,112,0,1,1,0,2,2,5.93192755
+305,Jeanette M,15,25,48,0.008796041781198461,90,0,1,0,3,0,2,5.94059868
+306,Jeanette M,14,19,54,0.009895547003848268,103,0,1,0,0,2,2,6.39765447
+307,Jeanette M,13,7,10,0.001832508704416346,156,1,1,2,1,0,2,7.59153752
+308,Jeanette M,11,9,20,0.003665017408832692,90,0,1,1,0,2,2,5.22820656
+309,Jeanette M,10,6,11,0.0020157595748579804,120,1,0,0,1,0,2,6.65432477
+310,Jeanette M,9,37,108,0.019791094007696537,83,0,1,0,0,2,2,6.10071805
+311,Jeanette M,8,23,46,0.008429540040315191,168,1,1,4,1,0,2,7.5651
+312,Jeanette M,7,4,9,0.0016492578339747114,146,1,1,1,0,1,2,6.69655985
+313,Jeanette M,6,6,27,0.004947773501924134,43,0,3,1,0,0,1,4.09020864
+314,Jeanette M,21,3,11,0.0020157595748579804,178,0,0,0,3,0,2,8.24050721
+315,Jeanette M,19,17,33,0.0060472787245739405,103,1,1,0,0,1,2,5.78472016
+316,Jeanette M,17,15,27,0.004947773501924134,120,0,0,0,1,0,2,6.37999758
+317,Jeanette M,15,16,27,0.004947773501924134,117,0,1,0,1,2,2,6.5760842
+318,Jeanette M,14,9,15,0.0027487630566245193,161,0,1,1,3,0,2,7.75121949
+319,Jeanette M,13,11,18,0.003298515667949423,120,0,0,0,0,2,2,5.58934596
+320,Jeanette M,11,11,21,0.0038482682792743274,120,0,1,1,2,0,2,5.77841946
+321,Jeanette M,10,6,11,0.0020157595748579804,109,0,1,0,0,2,2,5.86776131
+322,Jeanette M,8,17,36,0.006597031335898846,159,0,1,0,3,0,2,8.12374757
+323,Jeanette M,7,5,12,0.0021990104452996157,26,0,1,0,0,0,1,2.97364807
+324,Jeanette M,7,2,4,0.0007330034817665384,22,0,1,0,0,0,1,2.15965081
+325,Jeanette M,7,9,27,0.004947773501924134,18,0,1,0,0,0,1,2.22249223
+326,Jeanette M,7,3,11,0.0020157595748579804,53,0,1,2,0,15,0,4.48586246
+327,Jeanette M,7,3,6,0.0010995052226498076,43,0,1,0,0,0,1,3.52232534
+328,Jeanette M,7,8,15,0.0027487630566245193,92,1,1,0,0,1,2,5.73468631
+329,Jeanette M,21,20,42,0.007696536558548653,107,0,1,0,0,0,2,6.39552724
+330,Jeanette M,19,4,9,0.0016492578339747114,94,0,1,0,0,2,2,5.84507333
+331,Jeanette M,17,12,16,0.0029320139270661537,138,0,0,1,2,0,2,7.01033342
+332,Jeanette M,15,8,21,0.0038482682792743274,69,0,1,0,0,2,2,5.03897916
+333,Jeanette M,14,6,15,0.0027487630566245193,3,0,2,0,0,0,1,1.0
+334,Jeanette M,14,15,44,0.008063038299431922,19,0,1,0,0,0,1,2.96504973
+335,Jeanette M,14,4,6,0.0010995052226498076,139,0,1,2,1,0,2,7.25363387
+336,Jeanette M,13,8,23,0.004214770020157596,76,0,0,0,0,1,2,5.51780908
+337,Jeanette M,11,0,1,0.0001832508704416346,34,0,0,0,0,1,1,3.56743953
+338,Jeanette M,11,5,9,0.0016492578339747114,119,0,0,0,1,0,2,6.06855091
+339,Jeanette M,11,25,43,0.007879787428990287,176,2,1,0,3,0,2,8.34816992
+340,Jeanette M,11,2,5,0.000916254352208173,32,0,0,0,0,0,2,2.93892931
+341,Jeanette M,10,5,10,0.001832508704416346,74,0,1,0,0,2,2,4.84674908
+342,Jeanette M,8,0,2,0.0003665017408832692,135,0,0,0,2,0,2,6.49931082
+343,Jeanette M,7,10,24,0.004398020890599231,168,1,2,0,0,2,2,8.12479002
+344,Jeanette M,6,4,9,0.0016492578339747114,56,0,1,2,0,2,1,4.45407285
+345,Jeanette M,5,9,14,0.0025655121861828845,36,0,1,0,0,1,1,3.48006081
+346,Jeanette M,5,17,38,0.006963533076782115,41,0,2,0,0,1,1,3.71578834
+347,Jeanette M,5,0,0,0.0,0,0,0,0,1,0,1,0.0
+348,Jeanette M,5,1,6,0.0010995052226498076,58,0,1,2,0,13,0,4.67671466
+349,Jeanette M,4,9,21,0.0038482682792743274,26,0,1,0,0,0,1,2.21879771
+350,Jeanette M,4,18,44,0.008063038299431922,34,1,1,0,0,0,1,3.56303655
+351,Jeanette M,21,3,11,0.0020157595748579804,86,0,1,0,0,1,2,5.68752796
+352,Jeanette M,19,12,24,0.004398020890599231,171,0,0,0,1,0,2,7.86746666
+353,Jeanette M,17,6,18,0.003298515667949423,77,0,0,1,0,1,2,5.6991772
+354,The Indian Claypot,0,14,23,0.005144263028405279,22,0,1,0,17,0,2,2.64575131
+355,The Indian Claypot,0,18,32,0.007157235517781256,23,0,0,0,18,0,2,2.97644688
+356,The Indian Claypot,23,10,30,0.006709908297919929,30,0,1,0,17,0,2,3.29514028
+357,The Indian Claypot,0,14,31,0.006933571907850593,40,0,1,0,16,0,2,3.89225738
+358,The Indian Claypot,1,12,26,0.005815253858197271,77,0,0,0,16,0,2,5.58015541
+359,The Indian Claypot,0,19,41,0.009170208007157236,17,0,1,0,17,0,2,2.23606798
+360,The Indian Claypot,0,16,25,0.005591590248266607,17,0,1,0,21,0,2,2.23606798
+361,Pickled Plum Food and Drinks,18,16,35,0.002880184331797235,110,1,2,1,4,0,2,6.60810414
+362,Pickled Plum Food and Drinks,17,15,31,0.0025510204081632647,131,2,1,3,2,0,2,6.92216321
+363,Pickled Plum Food and Drinks,18,14,48,0.003949967083607637,75,1,1,1,3,0,2,4.97451716
+364,Pickled Plum Food and Drinks,17,6,32,0.0026333113890717576,97,1,0,2,9,0,2,6.15889463
+365,Pickled Plum Food and Drinks,18,7,18,0.0014812376563528636,113,0,1,2,6,0,2,6.71526707
+366,Pickled Plum Food and Drinks,17,8,37,0.0030447662936142197,104,0,1,3,6,0,2,6.23330151
+367,Pickled Plum Food and Drinks,17,35,154,0.012672811059907836,98,1,1,3,0,0,2,5.887434
+368,Pickled Plum Food and Drinks,18,6,14,0.001152073732718894,69,0,1,1,6,0,2,5.29754313
+369,Pickled Plum Food and Drinks,17,13,37,0.0030447662936142197,74,0,1,5,7,0,2,5.08874642
+370,Pickled Plum Food and Drinks,17,21,52,0.004279131007241606,107,0,1,4,8,0,2,6.52833163
+371,Pickled Plum Food and Drinks,18,6,16,0.0013166556945358788,127,0,2,2,5,0,2,6.9228272
+372,Pickled Plum Food and Drinks,17,3,13,0.0010697827518104015,98,0,2,2,6,0,2,6.13624068
