@@ -1,23 +1,42 @@
-from matplotlib import pyplot as plt
 import pandas as pd
-import numpy as np
 
-plt.style.use('fivethirtyeight')
+data = pd.read_csv('../dataset/mse.csv')
 
-data = pd.read_csv('final_data.csv')
+TP_mse = data.iloc[0][0]
 
-names = data.screen_name.unique()
+RF_mses = data.iloc[1:11]
 
-df1 = data[data.screen_name == names[6]]
+RF_list_temp = RF_mses.values.tolist()
+RF_list = []
 
-avg_retweets = df1.mean()[0]
+for element in  RF_list_temp:
+    RF_list.append(element[0])
+len(RF_list)
 
-plt.bar(df1.index, df1.retweet_count)
-plt.axhline(avg_retweets, color='red', label='Mean', linewidth=2, linestyle='--')
+SVR_mses = data.iloc[11:21]
 
-plt.legend()
-plt.title(f'Retweet Distribution: {names[6]}')
-plt.xlabel('Tweet')
-plt.ylabel('Number of Retweets')
+SVR_list_temp = SVR_mses.values.tolist()
+SVR_list = []
+
+for element in  SVR_list_temp:
+    SVR_list.append(element[0])
+len(SVR_list)
+
+from matplotlib import pyplot as plt
+
+x_axis = list(range(1, 11))
+
+plt.plot(x_axis, RF_list, c = 'blue', alpha = 0.5, marker = '.', label = 'RF')
+plt.plot(x_axis, SVR_list, c = 'red', alpha = 0.5, marker = '.', label = 'SVM')
+
+plt.axhline(TP_mse, color='green', label='Trivial Predictor', linewidth=2, linestyle='--')
+plt.axhline(sum(RF_list) / len(RF_list), color='blue', label='RF MEAN', linewidth=2, linestyle='--')
+plt.axhline(sum(SVR_list) / len(SVR_list), color='red', label='SVM MEAN', linewidth=2, linestyle='--')
+
+plt.grid(color = '#D3D3D3', linestyle = 'solid')
+plt.legend(loc = 'upper left')
+plt.title('MSE through iterations', color='black')
+plt.xlabel('Iteration', color='black')
+plt.ylabel('MSE', color='black')
 
 plt.show()
