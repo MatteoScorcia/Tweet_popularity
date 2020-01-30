@@ -1,9 +1,18 @@
 # Tweet_popularity
-Prediction of the popularity of a tweet about food recipes
+Prediction of the popularity of a tweet about food recipes 
 
 ## Disclaimer
-In this project we will intentionally avoid the data that can be retrieved from videos and images.
-We will use only text.
+We will use the following features to train the models:
+- tf-idf a tweet (sum of the scoring of each n-gram)
+-publishing time
+-number of followers of the page that has published the tweet
+-number of hastags
+-number of quotation marks
+-number of exclamation marks
+-length of plain text
+-number of urls
+-number of emojis
+-number of tags
 
 ## Credentials
 We will use secret tokens and secret api keys (stored in a credentials.txt file).
@@ -15,4 +24,4 @@ Get your own if you want to run the find_data.py script
 - ### note that ther is a pre-retrieved dataset!
 
 ## How to train the models
-- ### just run the training.ipynb script and see the results
+- ### just run the notebooks/training.ipynb script and see the results
