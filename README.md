@@ -12,3 +12,7 @@ Get your own if you want to run the find_data.py script
 ## How to prepare dataset
 - ### with find_data.ipynb retrieve tweets from desired pages.
 - ### with features_text_extractor.ipynb extract relevant features from raw dataset.
+- ### note that ther is a pre-retrieved dataset!
+
+## How to train the models
+- ### just run the training.ipynb script and see the results
