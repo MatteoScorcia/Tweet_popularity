@@ -16,7 +16,7 @@ We will use the following features (extracted for each tweet) to train the model
 
 ## Credentials
 We will use secret tokens and secret api keys (stored in a credentials.txt file).
-Get your own if you want to run the find_data.py script
+Get your own if you want to run the find_data.ipynb script
 
 ## How to prepare dataset
 - ### with find_data.ipynb retrieve tweets from desired pages.
