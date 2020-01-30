@@ -2,7 +2,7 @@
 Prediction of the popularity of a tweet about food recipes 
 
 ## Disclaimer
-We will use the following features to train the models:
+We will use the following features (extracted for each tweet) to train the models:
   - tf-idf a tweet (sum of the scoring of each n-gram)
   - publishing time
   - number of followers of the page that has published the tweet
