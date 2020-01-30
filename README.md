@@ -4,15 +4,15 @@ Prediction of the popularity of a tweet about food recipes
 ## Disclaimer
 We will use the following features to train the models:
   - tf-idf a tweet (sum of the scoring of each n-gram)
-  -publishing time
-  -number of followers of the page that has published the tweet
-  -number of hastags
-  -number of quotation marks
-  -number of exclamation marks
-  -length of plain text
-  -number of urls
-  -number of emojis
-  -number of tags
+  - publishing time
+  - number of followers of the page that has published the tweet
+  - number of hastags
+  - number of quotation marks
+  - number of exclamation marks
+  - length of plain text
+  - number of urls
+  - number of emojis
+  - number of tags
 
 ## Credentials
 We will use secret tokens and secret api keys (stored in a credentials.txt file).
