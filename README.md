@@ -19,9 +19,9 @@ We will use secret tokens and secret api keys (stored in a credentials.txt file)
 Get your own if you want to run the find_data.ipynb script
 
 ## How to prepare dataset
-- ### with find_data.ipynb retrieve tweets from desired pages.
-- ### with features_text_extractor.ipynb extract relevant features from raw dataset.
-- ### note that ther is a pre-retrieved dataset!
+- with find_data.ipynb retrieve tweets from desired pages.
+- with features_text_extractor.ipynb extract relevant features from raw dataset.
+- note that ther is a pre-retrieved dataset!
 
 ## How to train the models
-- ### just run the notebooks/training.ipynb script and see the results
+- just run the notebooks/training.ipynb script and see the results
