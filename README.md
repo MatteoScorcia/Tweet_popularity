@@ -3,9 +3,7 @@ Prediction of the popularity of a tweet about food recipes
 
 ## Disclaimer
 We will use the following features (extracted for each tweet) to train the models:
-  - tf-idf a tweet (sum of the scoring of each n-gram)
-  - publishing time
-  - number of followers of the page that has published the tweet
+  - POS tagging (counting for each sentence the most significative pos tags)
   - number of hastags
   - number of quotation marks
   - number of exclamation marks
@@ -20,7 +18,7 @@ Get your own if you want to run the find_data.ipynb script
 
 ## How to prepare dataset
 - with find_data.ipynb retrieve tweets from desired pages.
-- with features_text_extractor.ipynb extract relevant features from raw dataset.
+- with features_extractor.ipynb extract relevant features from raw dataset.
 - note that ther is a pre-retrieved dataset!
 
 ## How to train the models
