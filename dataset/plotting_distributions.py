@@ -11,11 +11,11 @@ plt.style.use("seaborn")
 #Retweet distribution plot
 freq = data['retweet_count'].value_counts()
 
-x = freq.values.tolist()
-y = freq.index.tolist()
+y = freq.values.tolist()
+x = freq.index.tolist()
 
 plt1.xlabel('Numero di Retweet', color='black', size=15)
-plt1.ylabel('Frequenza', color='black', size=15)
+plt1.ylabel('Frequenza (Log)', color='black', size=15)
 plt1.bar(x,y)
 plt1.show()
 
