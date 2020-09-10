@@ -14,8 +14,8 @@ freq = data['retweet_count'].value_counts()
 y = freq.values.tolist()
 x = freq.index.tolist()
 
-plt1.xlabel('Numero di Retweet', color='black', size=15)
-plt1.ylabel('Frequenza (Log)', color='black', size=15)
+plt1.xlabel('Numero di Retweet', color='black', size=20)
+plt1.ylabel('Frequenza', color='black', size=20)
 plt1.bar(x,y)
 plt1.show()
 
@@ -40,10 +40,14 @@ for index in range(0, len(ordered_names)):
             
 fig, axes = plt.subplots(1, 2)
 axes[0].set(ylabel='Numero di Retweet')
-axes[0].set_xticklabels(ordered_names, rotation=65)
+axes[0].yaxis.label.set_size(20)
+axes[0].xaxis.label.set_size(12)
+axes[0].set_xticklabels(ordered_names, rotation=65, fontdict={'fontsize': 13})
 axes[0].bar(ordered_names, ordered_values, color=set_color.colors)
 axes[1].set(ylabel='Media di Retweet')
-axes[1].set_xticklabels(mean.index, rotation=65)
+axes[1].yaxis.label.set_size(20)
+axes[1].xaxis.label.set_size(12)
+axes[1].set_xticklabels(mean.index, rotation=65, fontdict={'fontsize': 13})
 axes[1].bar(mean.index, height=x, color=set_color.colors)
 
 plt.show()
